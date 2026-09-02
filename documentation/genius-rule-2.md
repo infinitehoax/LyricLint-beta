@@ -1,6 +1,6 @@
 
 ==================================================
-SOURCE: annotation_11011236.pdf
+annotation_11011236
 This guide explains all the
 details relating to adding
 songs to Genius, including
@@ -987,7 +987,7 @@ FALLEN ANGEL
 RISK IT ALL
 HOOTIE FRUTTI
 VIEW ALL
-SOURCE: annotation_11011011.pdf
+annotation_11011011
 This guide explains all the details relating to adding songs to
 Genius, including a step-by-step guide, formatting conventions,
 Verified How to Add Songs to Genius Lyrics
@@ -1399,7 +1399,7 @@ Do Not Sell My Personal
 Information
 VERIFIED ARTISTS
 HOT SONGS:
-SOURCE: annotation_28653906.pdf
+annotation_28653906
 ___
 This guide explains all the details relating to
 adding songs to Genius, including a step-by-
@@ -1802,7 +1802,7 @@ OT SONGS:
 底無し沼に華 (SOKONASHI NUMA NI HANA)
 ZUHAUSE
 IT’S ME, IT’S VERITY
-SOURCE: annotation_13053989.pdf
+annotation_13053989
 Always use apostrophes when
 writing contractions
 media, SoundCloud, or YouTube —
@@ -1874,7 +1874,7 @@ Commun
 ities
 ANIMAL
 MISERY.
-SOURCE: annotation_15594027.pdf
+annotation_15594027
 Hyphens can be used in sequences of rapidly
 lyrical vocalizations such as scatting.
 Example: “Scatman”
@@ -1906,7 +1906,7 @@ Blow the whole spot up, 'cause I ain't—
 I wanna share last names, I wanna be you
 +97
 LOSE YOURSELF
-SOURCE: annotation_9250639.pdf
+annotation_9250639
 See any inaccurate lyrics? If so, you can help 
 To begin editing, click “Edit Lyrics” at the top
 you can’t see the button, you may not yet ha
@@ -1935,7 +1935,7 @@ co…
 Lion
 Ap…
 (Hist…
-SOURCE: annotation_9290590.pdf
+annotation_9290590
 The most important thing is to avoid editing 
 another user is transcribing them. While it mi
 tempting to jump on the new Kanye or Beyo
@@ -1965,7 +1965,7 @@ Mot…
 Bear
 approa
 ches…
-SOURCE: annotation_12687076.pdf
+annotation_12687076
 A shell page is a lyric page for a song that w
 lyrics for yet. These pages can be powerful f
 they help with SEO by giving potential visito
@@ -1975,7 +1975,7 @@ even if we don’t have all of the lyrics.
 +103
 ДИНАСТИЯ (DYNASTY)
 THE CURE
-SOURCE: annotation_15594059.pdf
+annotation_15594059
 Quotation marks should be used in the follow
 Indicating a song title.
 Example: D12 – My Band
@@ -2048,7 +2048,7 @@ Write Bios
 34. Transcript
 ion
 Moth…
-SOURCE: annotation_11893156.pdf
+annotation_11893156
 grow our database by adding old
 songs and more obscure tracks.
 In addition to lyric accuracy,
@@ -2120,7 +2120,7 @@ There is currently no way to entirely
 prevent other users from attempting to
 transcribe while you are, but here are
 RIN TIN TIN FREESTYLE*
-SOURCE: annotation_9290098.pdf
+annotation_9290098
 Most songs contain repeated lyrics, whether
 chorus, bridge, refrain, etc. Although Genius 
 reoccurring lyrics with a section header, the 
@@ -2143,7 +2143,7 @@ be sure to grab the original lyric and its anno
 —found in parentheses at the end of each lin
 “Edit Lyrics” mode—and to repeat that each 
 +123
-SOURCE: annotation_9257397.pdf
+annotation_9257397
 It’s best to include every ad-lib—this way we
 the most complete lyrics possible and do ot
 like pull data from song pages, etc.
@@ -2158,7 +2158,7 @@ I take drugs on the daily (Ooh)
 Pull out the ‘Rari or the Mercedes (Which
 Yeah, she got my heart racing, racing (Ye
 +174
-SOURCE: annotation_9298624.pdf
+annotation_9298624
 As Genius aspires to be an interactive guide t
 culture, we host an array of slang and colloq
 of which don’t have a definitive source or sp
@@ -2221,7 +2221,7 @@ Note: Use “cream” when referring to mon
 Clan.
 HAM | H.A.M.
 +292
-SOURCE: annotation_9257393.pdf
+annotation_9257393
 Transcribing in a line-by-line format makes it
 for users to read, but it separates the song u
 individual bars that make it easier to annotat
@@ -2256,7 +2256,7 @@ through Jetcraft.
 57-
 year-
 old…
-SOURCE: annotation_9290693.pdf
+annotation_9290693
 Your ability to edit the lyrics to a particular so
 several factors, including your IQ, whether yo
 transcriber/editor or not, the popularity of th
@@ -2264,7 +2264,7 @@ number of annotations on the song, etc. As y
 increasingly trusted user of the site, you will b
 more lyrics.
 BRING ME TO LIFE
-SOURCE: annotation_15545679.pdf
+annotation_15545679
 The following things must be capitalized:
 Outside of conventional capitalization rules, 
 not be capitalized.
@@ -2308,7 +2308,7 @@ winter.”
 +122
 BTS - MIC DROP (ROMANIZED)
 NOT TODAY
-SOURCE: annotation_16912129.pdf
+annotation_16912129
 Yodeling
 Common sounds and letters used to denote 
 dee as in deep
@@ -2354,7 +2354,7 @@ ad no…
 (Promote…
 Appr…
 (History10)
-SOURCE: annotation_9290569.pdf
+annotation_9290569
 To transcribe a high-traffic page, the first ste
 bare page—this means to add the artist nam
 warning in the lyric section, telling others tha
@@ -2371,7 +2371,7 @@ it’s been transcribed!
 These lyrics are currently being transcribe
 not edit until the lyrics are up in their enti
 +66
-SOURCE: annotation_33314316.pdf
+annotation_33314316
 1M
 When making a single letter plural, place an a
 before the “s.”
@@ -2381,7 +2381,7 @@ an apostrophe before the “s.”
 “This is for the G’s and this is for the hustl
 “You see I’m flexin' VVSs, don’t forget abo
 “Before I learned my ABCs, I learned how
-SOURCE: annotation_14949930.pdf
+annotation_14949930
 All sound effects (such as money counters, g
 should be preceded and followed by an aste
 If the artist vocalizes a sound effect (such as 
@@ -2391,7 +2391,7 @@ Note that curly brackets should never be use
 sound effects.
 At the same burger stand where *beep* h
 +74
-SOURCE: annotation_30352975.pdf
+annotation_30352975
 Only users of the Transcriber role and roles h
 merge proposed edits to lyrics by accepting 
 can reject them.
@@ -2414,7 +2414,7 @@ Downgrade or ruin the lyrics' formatting
 Downgrade the lyrics' accuracy
 Add incorrect parts
 +21
-SOURCE: annotation_14835335.pdf
+annotation_14835335
 All romanized lyrics should be hosted on a se
 from the song’s primary transcription. Roman
 pages should be formatted as follows:
@@ -2432,7 +2432,7 @@ Any additional role
 +85
 countl
 ess…
-SOURCE: annotation_14913125.pdf
+annotation_14913125
 Reversed/backwards lyrics is a variant used in
 the vocals will be played backwards or revers
 Example: Missy Elliott’s “Work It”
@@ -2445,7 +2445,7 @@ Annotation can include how the lines read
 reversed
 This site will reverse lyrics for you
 +120
-SOURCE: annotation_16427849.pdf
+annotation_16427849
 Even if a song doesn’t have lyrics, it can still 
 Genius!
 To create a page for an instrumental track, fo
@@ -2456,7 +2456,7 @@ Note that instrumental versions of already-e
 should only be added to Genius if they were
 official capacity (i.e. on streaming services, a
 +56
-SOURCE: annotation_14134676.pdf
+annotation_14134676
 Adding Snippets
 Header: Above the transcription, include the 
 bolded header with square brackets on eithe
@@ -2472,7 +2472,7 @@ make an assumption.
 [Lyrics from Snippet]
 +111
 MERRY GO ROUND
-SOURCE: annotation_12687115.pdf
+annotation_12687115
 The “Highly Anticipated Releases” form of so
 creates a page on Genius that looks like this:
 You can create these pages by either going t
@@ -2486,7 +2486,7 @@ you’re not sure if the release is highly anticipa
 probably not—however, you can send streetl
 message to talk about it!
 +15
-SOURCE: annotation_9250623.pdf
+annotation_9250623
 How to Create a Song Page
 Always search on Genius first to see if the so
 already been created.
@@ -2536,7 +2536,7 @@ If the artist’s name is also written in a non-La
 you can do the same—enter the artist’s name
 the English transliteration of their name in pa
 +219
-SOURCE: annotation_15237597.pdf
+annotation_15237597
 Even though explicit versions should be used
 transcriptions on Genius, sometimes even on
 explicit version, a word/series of words are c
@@ -2549,7 +2549,7 @@ I told her I would love to see that **** ap
 Man
 Digs
 Up…
-SOURCE: annotation_30242624.pdf
+annotation_30242624
 In cases such as brand names, certain symbo
 characters are fine to include while others are
 Do not use symbols such as ™ and ®:
@@ -2565,9 +2565,9 @@ H&M
 su:m37°
 +37
 0:00 / 0:05
-SOURCE: annotation_11814934.pdf
+annotation_11814934
 WAKA WAKA (ESTO ES ÁFRICA)
-SOURCE: annotation_14949792.pdf
+annotation_14949792
 If a song’s video version differs from the strea
 of the song, the lyric page should follow the 
 version and the additional lyrics should be pl
@@ -2586,7 +2586,7 @@ A$AP Mob – “RAF” (Video Version)
 y]
 Dr…
 (Cle…
-SOURCE: annotation_33622377.pdf
+annotation_33622377
 Adding Live Performances
 are heard in the song’s performance; do not 
 assumptions about the song’s structure and a
@@ -2601,11 +2601,11 @@ phrases to make an assumption.
 +20
 HEAL THE WORLD
 ТРЕТЬЕ СЕНТЯБРЯ (SEPTEMBER 3RD)
-SOURCE: annotation_30351804.pdf
+annotation_30351804
 You can propose edits to lyrics that are locke
 complete, or approved by a staff member by
 “Edit lyrics” button in the song page.
-SOURCE: annotation_11011109.pdf
+annotation_11011109
 The first step is to determine which page sho
 deleted/hidden.
 There are three important things to look at b
@@ -2635,7 +2635,7 @@ side with views. However, it’s always best to
 creators to transfer their annotations over pri
 action. This will only happen in extreme circu
 +44
-SOURCE: annotation_9303373.pdf
+annotation_9303373
 Missing lyrics on a song page should always 
 by a question mark within brackets: [?]
 For example:
@@ -2646,7 +2646,7 @@ If you’re looking to help resolve any missing
 spreadsheet that lists all transcriptions that c
 I only call you when it’s [?] past five
 +192
-SOURCE: annotation_13053972.pdf
+annotation_13053972
 Most of the time, transcription IQ is automat
 by @geniusbot. In other cases where genius
 confirm the authenticity of the song, any tran
@@ -2671,7 +2671,7 @@ Song gets 2,500,000 views: +1000
 Song gets 5,000,000 views: +2000
 If you have transcribed a song and did not g
 free to post here.
-SOURCE: annotation_11293005.pdf
+annotation_11293005
 Typewriter apostrophes/quotation marks are
 apostrophes/quotation marks on most keybo
 Compare here:
@@ -2688,11 +2688,11 @@ They’re default on most keyboards
 Drone
 Mak…
 (Cleverst)
-SOURCE: annotation_11814937.pdf
+annotation_11814937
 +26
 Husba
 nd…
-SOURCE: annotation_15593987.pdf
+annotation_15593987
 All questions must always end with a questio
 Example: Lady Gaga & Bradley Cooper – Sha
 Exclamation marks should be used to show e
@@ -2715,7 +2715,7 @@ Chips Ahoy!
 This is
 real
 and…
-SOURCE: annotation_14949891.pdf
+annotation_14949891
 All translations should be hosted on a separa
 the instructions found in this guide.
 +46
@@ -2723,7 +2723,7 @@ BEAUTIFUL
 For
 this
 reas…
-SOURCE: annotation_12332255.pdf
+annotation_12332255
 Sometimes you’ll run into cases where an artist pronounces
 a word oddly or omits part of it—this often occurs when
 dealing with local slang but can also happen to force a
@@ -2775,7 +2775,7 @@ removal?
 With this tri…
 approaches
 girl at bus…
-SOURCE: annotation_12687088.pdf
+annotation_12687088
 The “Non-Anticipated Releases/Already Rele
 form of song submission should be used in m
 which lyrics are not available. Some example
@@ -2799,7 +2799,7 @@ Type the name of the song you want to a
 a song” autocomplete prompt
 Click the “Create new” result (should be tfi
 Leave the “Unreleased” checkmark unche
-SOURCE: annotation_9290803.pdf
+annotation_9290803
 When writing a contraction, always place an 
 the side of the word that letters were remove
 ballin', not ballin (contraction of “balling”)
@@ -2809,7 +2809,7 @@ don’t, not dont (contraction of “do not”)
 y'all, not yall or ya’ll (contraction of “you a
 ‘cause, not cause (contraction of “becaus
 +171
-SOURCE: annotation_9250687.pdf
+annotation_9250687
 Song part headers are used to distinguish dif
 within a song.
 Quiet when I’m coming home and I’m on 
@@ -2956,7 +2956,7 @@ Don’t give ‘em the satisfaction
 What if I want the satisfaction?
 <i>Talked down on my name, throwed dirt on h
 +222
-SOURCE: annotation_15591905.pdf
+annotation_15591905
 In most cases, numbers should be spelled ou
 written as numerical digits.
 If the number is a multiple of 100, the entire n
@@ -2999,7 +2999,7 @@ Who the fuck is this pagin' me at 5:46?
 Wakin' up at 6 p.m. like, “Where does the
 Oh, it’s 6 o'clock in the morning at the stu
 +232
-SOURCE: annotation_11814938.pdf
+annotation_11814938
 +30
 ARJN, KDS, FIFTY4 & SHREYA GHOSHAL - KALYANI (REMIX) (ROMANIZED)
 ...
