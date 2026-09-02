@@ -1,33 +1,38 @@
 Adhere strictly to these editing guidelines and pet peeves:
 
 ### 1. Grammar, Spelling, & Style Nitpicks:
-*   "Oh well" must be corrected to "Oh, well"
-*   "Goodluck" must be corrected to "Good luck"
-*   "Nevermind" must be corrected to "Never mind"
-*   "alright" must be corrected to "all right"
-*   "Yeah yeah" must be corrected to "Yeah, yeah"
-*   Never use "till"; always use "'til"
-*   Change elongated variations like "Ohh" to "Oh"
-*   Even if the official lyric video contains spelling errors or lacks diacritics, you must correct them. Do not blindly follow official source errors.
+
+- "Oh well" must be corrected to "Oh, well"
+- "Goodluck" must be corrected to "Good luck"
+- "Nevermind" must be corrected to "Never mind"
+- "alright" must be corrected to "all right"
+- "Yeah yeah" must be corrected to "Yeah, yeah"
+- Never use "till"; always use "'til"
+- Change elongated variations like "Ohh" to "Oh"
+- Even if the official lyric video contains spelling errors or lacks diacritics, you must correct them. Do not blindly follow official source errors.
 
 ### 2. Line-Ending Punctuation:
-*   No punctuation is allowed at the end of any lyric line except for a question mark (?) or quotation marks ("). Strip away all trailing commas, periods, or exclamation marks.
+
+- No punctuation is allowed at the end of any lyric line except for a question mark (?) or quotation marks ("). Strip away all trailing commas, periods, or exclamation marks.
 
 ### 3. Deities & Native Languages (Diacritics):
-*   Always respect and apply reverential capitalization for deities.
-*   Respect native languages and utilize proper diacritics or local scripts. For example, in Yoruba:
-    *   "Oya" must be written as "Ó yá" (for non-deities).
-    *   "gbedu" must be written as "gbẹ̀du" (unless it is part of an artist's official name which does not use diacritics).
+
+- Always respect and apply reverential capitalization for deities.
+- Respect native languages and utilize proper diacritics or local scripts. For example, in Yoruba:
+  - "Oya" must be written as "Ó yá" (for non-deities).
+  - "gbedu" must be written as "gbẹ̀du" (unless it is part of an artist's official name which does not use diacritics).
 
 ### 4. Genius Formatting & HTML Tags:
-*   Genius annotation brackets are formatted as: `[lyrics](3828192)`
-*   HTML formatting (such as `<i>` or `<b>`) is reserved strictly for separate/secondary vocals. Do not use HTML tags for same-artist ad-libs or vocals.
-*   If formatting ad-libs for separate vocals, place them inside parentheses within HTML tags, like so: `(<i>adlib</i>)`
-*   Even when an ad-lib or vocal is enclosed in HTML tags, always capitalize the very first word.
-Note: You must repect official lyrics as it's from the artists themselves. We don't know more than the artist that wrote and sung the lyrics
-Begin your response with your harsh rating and critique, followed by the corrected, bolded lyrics.
+
+- Genius annotation brackets are formatted as: `[lyrics](3828192)`
+- HTML formatting (such as `<i>` or `<b>`) is reserved strictly for separate/secondary vocals. Do not use HTML tags for same-artist ad-libs or vocals.
+- If formatting ad-libs for separate vocals, place them inside parentheses within HTML tags, like so: `(<i>adlib</i>)`
+- Even when an ad-lib or vocal is enclosed in HTML tags, always capitalize the very first word.
+  Note: You must repect official lyrics as it's from the artists themselves. We don't know more than the artist that wrote and sung the lyrics
+  Begin your response with your harsh rating and critique, followed by the corrected, bolded lyrics.
 
 ---
+
 Guide:
 <h1> If you're new to the site visit these links first:</h1>
 
@@ -137,7 +142,7 @@ Note: The refrain can often be confused with the Chorus. A Refrain is a repeated
 [✧](15050640)
 
 <b>Bridge</b>
-A bridge is the point in song when it completely changes, sounding melodically and/or lyrically different before it transitions back into original form. It can appear anywhere and rarely appears more than once.  [-> Click here for examples.](15059317)
+A bridge is the point in song when it completely changes, sounding melodically and/or lyrically different before it transitions back into original form. It can appear anywhere and rarely appears more than once. [-> Click here for examples.](15059317)
 
 <b>Breakdown</b>
 Often used in [Metalcore](https://genius.com/tags/metalcore), [Metal](https://genius.com/tags/metal), [Thrash Metal](https://genius.com/tags/thrash-metal), [Post-Hardcore](https://genius.com/tags/post-hardcore), [Punk-Rock](https://genius.com/tags/punk-rock), [Nu-Metal](https://genius.com/tags/nu-metal) and other genres of the same family, a Breakdown is a section in which the melody changes abruptly. This change is often composed of simple but heavy guitar and bass riffs, pounding drums, and heavy screaming. This is the part of the song where headbanging is most prominent. [-> Click here for examples.](15041510)
@@ -203,7 +208,7 @@ Note: Some solos/instrumental breaks have vocals during the solo. These can be t
 
 [✧](15050663)
 
-A Snippet is a short section of a song that is released before the full song becomes available. Include the following header at the top of the page (no brackets): <b>Lyrics From Snippet</b>  [-> Click here for examples.](15049008)
+A Snippet is a short section of a song that is released before the full song becomes available. Include the following header at the top of the page (no brackets): <b>Lyrics From Snippet</b> [-> Click here for examples.](15049008)
 
 <h1>Other Song Sections</h1>
 
@@ -458,7 +463,7 @@ To stay up to date with best practices and our evolving editorial standards, fol
 ○ Yes, there is. On [date of upload, if available], [Person/Label/Company who uploaded it] uploaded a BTS video on [Platform]. [Insert link]
 
 • Is there an alternative title for "[Song]" by [Artist]?
-○ Yes, there is. The song was also released as "[Other Name]" on *[Secondary Project/DSP]*.
+○ Yes, there is. The song was also released as "[Other Name]" on _[Secondary Project/DSP]_.
 <small>This is to be used for songs which have different names in different places. [Example](https://genius.com/93feetofsmoke-dracula-freestyle-og-lyrics).</small>
 
 <hr><h2>"Where..." Q&As</h2>
@@ -487,8 +492,9 @@ The following formats consist of (optionally) just having the YouTube link as th
 ○ From [where/when]:
 
 Artist/Member:
+
 > [What they said]
-<small>The latter is for songs by multiple artists (in which each artist added their own words for the song) or bands. [Example](https://genius.com/5-seconds-of-summer-youngblood-lyrics).</small>
+> <small>The latter is for songs by multiple artists (in which each artist added their own words for the song) or bands. [Example](https://genius.com/5-seconds-of-summer-youngblood-lyrics).</small>
 
 • What DAW software was used in the creation of the song?
 ○ [Artist] used [DAW software] to [mix/master/record] the song.
@@ -498,7 +504,7 @@ Artist/Member:
 ○ [Artist/label/etc.] ["posted the snippet" hyperlinked to the social media post of the snippet] in [social media name], with the following as the caption:
 
 > [The caption copy-pasted from the post]
-<small>Note: Other answers are possible too. Answer where and when the snippet was released even if not in social media and hyperlink the sources.</small>
+> <small>Note: Other answers are possible too. Answer where and when the snippet was released even if not in social media and hyperlink the sources.</small>
 
 <hr><h2>"Has..." Q&As</h2>
 
@@ -512,7 +518,7 @@ Artist/Member:
 • Has this song received any certifications?
 ○ <i>[Yes,] [Song] was certified [Certification](insert link) by the RIAA on [Date].</i>
 ○ <i>(Yes,) On [Date], [Song] was certified [Certification](Insert link) by the RIAA.</i>
-<small>Note: </small>[<small>Always link the song page on the certification site.</small>](35138131)<small> The website itself does not need to be linked. </small>[<small>The RIAA is the only site for American songs to be  100% trusted.</small>](35138132)
+<small>Note: </small>[<small>Always link the song page on the certification site.</small>](35138131)<small> The website itself does not need to be linked. </small>[<small>The RIAA is the only site for American songs to be 100% trusted.</small>](35138132)
 
 <hr><h2>Translations</h2>
 
@@ -557,7 +563,6 @@ Artist bios are perhaps the trickiest to write and you will see different styles
 • [Good topics](30992996)
 
 ---
-
 
 This page is designed to provide current and aspiring Transcribers with simple explanations of the role's permissions, proper etiquette, and general ways to make contributing to Genius a little easier.
 
@@ -625,7 +630,6 @@ Other scenarios transcribers are expected to handle properly:
 • [Duplicate pages](30494689)
 • [Addressing concerning activity from whitehats](30494812)
 • [Addressing concerning work from other transcribers](32878424)[​](29090244)[​](29074763)
-
 
 ---
 
@@ -748,7 +752,6 @@ It's often easier to get a hold of another set of ears than the artist, their of
 <h3>Last Resort: Come Back to It!</h3>
 
 When rewatching films, you often notice new details. This principle is also true for music. Returning to an incomplete transcript can make all the difference.
-
 
 ---
 
@@ -875,7 +878,7 @@ Go to following section, add a * and name of tag and annotate the * with a descr
 No new posts can be created for this discussion
 • User is looking at Locked forum.
 • User is not marked Ham.
-•  User's account is less than 24 hours old.
+• User's account is less than 24 hours old.
 
 <h1>Testing</h1>
 
@@ -897,7 +900,6 @@ No new posts can be created for this discussion
 <li>❩ instead of ) <small>([thanks Fri](https://genius.com/discussions/472339-A-command-how-to-make))</small>
 </li>
 </ul>
-
 
 </ul>
 
@@ -1080,6 +1082,7 @@ Dinner of the winner, that is what I wanna get</code>
 - ["Title"](URL) — Month YYYY
 - ["Title"](URL) — Month YYYY
 - and ["Title"](URL) — Month YYYY</code></li>
+
 </ul>
 
 <b>Where can I listen to "Song" by Artist?</b>
@@ -1193,7 +1196,7 @@ If multiple vocalists sing simultaneously, treat the vocals they sing in unison 
 <li>Incorrect: [Chorus: Dave Grohl, <i>with Jewel</i>]</li>
 </ul>
 
-If more than two vocalists perform solo and in unison in one song part, "All" may be used as an artist identifier. 
+If more than two vocalists perform solo and in unison in one song part, "All" may be used as an artist identifier.
 
 <ul>
 <li>Correct: [Chorus: Q-Tip, Phife Dawg & Jarobi]</li>
@@ -1259,71 +1262,80 @@ Here is a comprehensive, detailed guide on how to identify every major structura
 ---
 
 ### 1. The Intro (Introduction)
-* **What it is:** The very beginning of the song. 
-* **Its Job:** To set the mood, establish the tempo, define the key, and grab your attention. 
-* **How to identify it:** The intro is almost always instrumental. It usually lasts 4 to 8 measures. Sometimes, it features a stripped-down version of the chorus melody, a signature guitar riff, or a unique sound effect. Once the main lead vocal begins singing the actual song, the intro is over.
+
+- **What it is:** The very beginning of the song.
+- **Its Job:** To set the mood, establish the tempo, define the key, and grab your attention.
+- **How to identify it:** The intro is almost always instrumental. It usually lasts 4 to 8 measures. Sometimes, it features a stripped-down version of the chorus melody, a signature guitar riff, or a unique sound effect. Once the main lead vocal begins singing the actual song, the intro is over.
 
 ### 2. The Verse
-* **What it is:** The "storyteller" of the song.
-* **Its Job:** To advance the narrative, build context, and give the listener details. If a song is a movie, the verses are the plot.
-* **How to identify it:** 
-    * **Lyrics:** The lyrics change from Verse 1 to Verse 2. 
-    * **Melody:** Even though the lyrics change, the *melody* (the notes the singer is singing) stays essentially the same in every verse.
-    * **Energy:** It usually has a lower dynamic and less intense instrumentation than the chorus. The vocals are often sung in a lower, more conversational register.
+
+- **What it is:** The "storyteller" of the song.
+- **Its Job:** To advance the narrative, build context, and give the listener details. If a song is a movie, the verses are the plot.
+- **How to identify it:**
+  - **Lyrics:** The lyrics change from Verse 1 to Verse 2.
+  - **Melody:** Even though the lyrics change, the _melody_ (the notes the singer is singing) stays essentially the same in every verse.
+  - **Energy:** It usually has a lower dynamic and less intense instrumentation than the chorus. The vocals are often sung in a lower, more conversational register.
 
 ### 3. The Pre-Chorus
-* **What it is:** The "hype man" or the "runway."
-* **Its Job:** To connect the verse to the chorus and build tension, anticipation, and energy so that the chorus hits harder.
-* **How to identify it:**
-    * It usually appears right after the verse and right before the chorus.
-    * You will feel a shift in the music. The drum beat might get faster or drop out entirely, the singer might sing a bit higher or louder, or a new instrument might be introduced. 
-    * Unlike verses, the lyrics of a pre-chorus are often exactly the same every time it comes around (though not always).
+
+- **What it is:** The "hype man" or the "runway."
+- **Its Job:** To connect the verse to the chorus and build tension, anticipation, and energy so that the chorus hits harder.
+- **How to identify it:**
+  - It usually appears right after the verse and right before the chorus.
+  - You will feel a shift in the music. The drum beat might get faster or drop out entirely, the singer might sing a bit higher or louder, or a new instrument might be introduced.
+  - Unlike verses, the lyrics of a pre-chorus are often exactly the same every time it comes around (though not always).
 
 ### 4. The Chorus
-* **What it is:** The heart, the climax, and the "hook" of the song.
-* **Its Job:** To deliver the main message or theme of the song. It is designed to be the most memorable part of the track—the part you sing in the shower.
-* **How to identify it:**
-    * **Lyrics & Melody:** Both the lyrics and the melody repeat exactly (or almost exactly) every time the chorus happens. 
-    * **Energy:** This is usually the loudest, biggest, and most energetic part of the song. 
-    * **Instrumentation:** You will often hear all the instruments playing at once here. Background vocals and harmonies are frequently added to make the sound "wider" and "thicker."
-    * **Title:** The title of the song is almost always sung somewhere in the chorus.
+
+- **What it is:** The heart, the climax, and the "hook" of the song.
+- **Its Job:** To deliver the main message or theme of the song. It is designed to be the most memorable part of the track—the part you sing in the shower.
+- **How to identify it:**
+  - **Lyrics & Melody:** Both the lyrics and the melody repeat exactly (or almost exactly) every time the chorus happens.
+  - **Energy:** This is usually the loudest, biggest, and most energetic part of the song.
+  - **Instrumentation:** You will often hear all the instruments playing at once here. Background vocals and harmonies are frequently added to make the sound "wider" and "thicker."
+  - **Title:** The title of the song is almost always sung somewhere in the chorus.
 
 ### 5. The Post-Chorus
-* **What it is:** The "afterparty" of the chorus.
-* **Its Job:** To sustain the high energy of the chorus without requiring the listener to process new lyrical information. It gives the listener a chance to dance or groove.
-* **How to identify it:** 
-    * It happens immediately after the chorus ends.
-    * It is highly repetitive and heavily relies on a simple hook. This could be a repetitive vocal chant (like "Oh-oh-oh," "Na-na-na"), or an instrumental "beat drop" (very common in EDM and modern pop).
-    * It acts as a cool-down ramp back into the next verse.
+
+- **What it is:** The "afterparty" of the chorus.
+- **Its Job:** To sustain the high energy of the chorus without requiring the listener to process new lyrical information. It gives the listener a chance to dance or groove.
+- **How to identify it:**
+  - It happens immediately after the chorus ends.
+  - It is highly repetitive and heavily relies on a simple hook. This could be a repetitive vocal chant (like "Oh-oh-oh," "Na-na-na"), or an instrumental "beat drop" (very common in EDM and modern pop).
+  - It acts as a cool-down ramp back into the next verse.
 
 ### 6. The Refrain
-* **What it is:** A repeated line or phrase. (Note: People often confuse "Chorus" and "Refrain," but musically, they are different).
-* **Its Job:** To tie a verse together with a central thought.
-* **How to identify it:** 
-    * Unlike a chorus, a refrain does *not* get its own massive, separate musical section. It is typically nested *inside* the verse, usually as the very first or very last line.
-    * **Example:** In Bob Dylan's *"Blowin' in the Wind,"* the verses tell a long story, but every verse ends with the exact same line: *"The answer, my friend, is blowin' in the wind."* That line is a refrain, not a chorus, because it doesn't break away into a new, high-energy musical section.
+
+- **What it is:** A repeated line or phrase. (Note: People often confuse "Chorus" and "Refrain," but musically, they are different).
+- **Its Job:** To tie a verse together with a central thought.
+- **How to identify it:**
+  - Unlike a chorus, a refrain does _not_ get its own massive, separate musical section. It is typically nested _inside_ the verse, usually as the very first or very last line.
+  - **Example:** In Bob Dylan's _"Blowin' in the Wind,"_ the verses tell a long story, but every verse ends with the exact same line: _"The answer, my friend, is blowin' in the wind."_ That line is a refrain, not a chorus, because it doesn't break away into a new, high-energy musical section.
 
 ### 7. The Bridge
-* **What it is:** The "plot twist" or the "detour."
-* **Its Job:** To provide contrast. By the time a listener has heard two verses and two choruses, their ears might be getting tired of the same chords. The bridge breaks the repetition and brings a fresh sound before the final, biggest chorus.
-* **How to identify it:**
-    * It usually only happens **once** in a song, typically about 2/3 or 3/4 of the way through (after the second chorus).
-    * Everything changes: It often features a brand-new chord progression, a completely different melody, and new lyrics.
-    * It changes the emotional tone. If the song is loud, the bridge might suddenly be quiet and intimate. If the song is sad, the bridge might offer a moment of hope or intense anger. 
+
+- **What it is:** The "plot twist" or the "detour."
+- **Its Job:** To provide contrast. By the time a listener has heard two verses and two choruses, their ears might be getting tired of the same chords. The bridge breaks the repetition and brings a fresh sound before the final, biggest chorus.
+- **How to identify it:**
+  - It usually only happens **once** in a song, typically about 2/3 or 3/4 of the way through (after the second chorus).
+  - Everything changes: It often features a brand-new chord progression, a completely different melody, and new lyrics.
+  - It changes the emotional tone. If the song is loud, the bridge might suddenly be quiet and intimate. If the song is sad, the bridge might offer a moment of hope or intense anger.
 
 ### 8. The Instrumental Solo / Interlude
-* **What it is:** A spotlight for an instrument, or a brief musical breather.
-* **Its Job:** To give the singer a break and let the instrumentation carry the emotion of the song.
-* **How to identify it:** 
-    * **Solo:** A lead instrument (guitar, saxophone, synthesizer) takes over the main melody. It often happens over the chords of the verse, chorus, or bridge.
-    * **Interlude:** A short instrumental transition between sections (e.g., a 2-bar drum groove between the first chorus and the second verse).
+
+- **What it is:** A spotlight for an instrument, or a brief musical breather.
+- **Its Job:** To give the singer a break and let the instrumentation carry the emotion of the song.
+- **How to identify it:**
+  - **Solo:** A lead instrument (guitar, saxophone, synthesizer) takes over the main melody. It often happens over the chords of the verse, chorus, or bridge.
+  - **Interlude:** A short instrumental transition between sections (e.g., a 2-bar drum groove between the first chorus and the second verse).
 
 ### 9. The Outro (or Coda)
-* **What it is:** The conclusion of the song.
-* **Its Job:** To gently (or dramatically) bring the listener out of the song's world and transition them back to silence or into the next track on an album.
-* **How to identify it:**
-    * It happens at the very end. 
-    * It can take several forms: a gradual volume "fade-out," a repeat of the chorus hook that slows down (ritardando), an instrumental jam, or a definitive "hard stop" on a final, resonant chord.
+
+- **What it is:** The conclusion of the song.
+- **Its Job:** To gently (or dramatically) bring the listener out of the song's world and transition them back to silence or into the next track on an album.
+- **How to identify it:**
+  - It happens at the very end.
+  - It can take several forms: a gradual volume "fade-out," a repeat of the chorus hook that slows down (ritardando), an instrumental jam, or a definitive "hard stop" on a final, resonant chord.
 
 ---
 
@@ -1331,24 +1343,25 @@ Here is a comprehensive, detailed guide on how to identify every major structura
 
 To truly know these parts, it helps to see how they are usually arranged. The most common commercial song structure in the world looks like this:
 
-1. **Intro** *(Sets the vibe)*
-2. **Verse 1** *(Starts the story)*
-3. **Pre-Chorus** *(Builds tension)*
-4. **Chorus** *(The big catchy hook)*
-5. **Verse 2** *(Continues the story)*
-6. **Pre-Chorus** *(Builds tension again)*
-7. **Chorus** *(The big catchy hook again)*
-8. **Bridge** *(The plot twist / emotional peak)*
-9. **Chorus** *(Usually the biggest, loudest chorus of the song)*
-10. **Outro** *(The song ends)*
+1. **Intro** _(Sets the vibe)_
+2. **Verse 1** _(Starts the story)_
+3. **Pre-Chorus** _(Builds tension)_
+4. **Chorus** _(The big catchy hook)_
+5. **Verse 2** _(Continues the story)_
+6. **Pre-Chorus** _(Builds tension again)_
+7. **Chorus** _(The big catchy hook again)_
+8. **Bridge** _(The plot twist / emotional peak)_
+9. **Chorus** _(Usually the biggest, loudest chorus of the song)_
+10. **Outro** _(The song ends)_
 
 ### Pro-Tips for Active Listening (How to practice this)
-If you want to get good at identifying these parts by ear, listen to a song and ask yourself these questions:
-* *"Did the lyrics just change from the last time I heard this melody?"* If yes, you are in a **Verse**.
-* *"Are all the instruments suddenly playing louder, and is the singer repeating the song title?"* You are in a **Chorus**.
-* *"Did the song just take a completely new direction with chords I haven't heard yet?"* You have hit the **Bridge**.
-* *"Is this just a catchy 'la-la-la' part right after the main chorus?"* That’s a **Post-Chorus**.
 
+If you want to get good at identifying these parts by ear, listen to a song and ask yourself these questions:
+
+- _"Did the lyrics just change from the last time I heard this melody?"_ If yes, you are in a **Verse**.
+- _"Are all the instruments suddenly playing louder, and is the singer repeating the song title?"_ You are in a **Chorus**.
+- _"Did the song just take a completely new direction with chords I haven't heard yet?"_ You have hit the **Bridge**.
+- _"Is this just a catchy 'la-la-la' part right after the main chorus?"_ That’s a **Post-Chorus**.
 
 <h1>Standard Spellings</h1>
 
@@ -1496,7 +1509,7 @@ If you want to get good at identifying these parts by ear, listen to a song and 
 
 • Roxy | Roxies | <strike>Roxys</strike>
 
-•  Oxy | Oxys | <strike>Oxies</strike>
+• Oxy | Oxys | <strike>Oxies</strike>
 
 • Addy | Addys | <strike>Addies</strike>
 

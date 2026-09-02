@@ -359,7 +359,8 @@ export const answerRequestSchema = z
 		turnstileToken: z.string().min(1).max(4096).optional(),
 		clientRuleSetVersion: z.string().min(1).max(64),
 		toolsAvailable: z.boolean().optional(),
-		supportsRetry: z.boolean().optional()
+		supportsRetry: z.boolean().optional(),
+		videoUrl: z.string().min(1).max(2048).optional()
 	})
 	.strict();
 

@@ -2,10 +2,10 @@
 import type { AssistantCorpus } from './rules-context';
 
 export const corpus = {
-	formatVersion: 5,
+	formatVersion: 6,
 	ruleSetVersion: '2026.08.28.0',
-	generatedAt: '2026-08-28T16:37:32.394Z',
-	contentHash: '7319e8e8956b084ba1932e914ff5dc719a481c251c3df0b4ceb01aae19469397',
+	generatedAt: '2026-09-02T13:53:49.328Z',
+	contentHash: '552b6e138c7c36e1821362ba63fe53076dee92acc6601d7bb4c25f8b6e36e341',
 	rules: [
 		{
 			id: 'syntax.unbalanced-brackets',

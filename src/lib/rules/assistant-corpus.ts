@@ -44,8 +44,8 @@ export type { AssistantCorpus } from './assistant-corpus-types.js';
 
 /** 2 added `lookups`; 3 added `guidance` and source `authority`; 4 made
  * guidance examples labeled correct/incorrect pairs; 5 added the `lyriclint`
- * advisory tier to guidance authorities. */
-export const CORPUS_FORMAT_VERSION = 5;
+ * advisory tier to guidance authorities; 6 added documentationNotes from /documentation. */
+export const CORPUS_FORMAT_VERSION = 6;
 
 const HARPER_BEHAVIOR =
 	'Alongside the reviewed Genius rules, LyricLint runs Harper, a local English proofreader, ' +
@@ -94,7 +94,8 @@ function corpusSource(source: SourceReference): AssistantCorpusSource {
 
 /** Everything but the stamp and the hash — deterministic for a given source tree. */
 export function buildAssistantCorpusContent(
-	rulesMd: string
+	rulesMd: string,
+	documentationDocs: string[] = []
 ): Omit<AssistantCorpus, 'generatedAt' | 'contentHash'> {
 	// `corpusContentHash` hashes `JSON.stringify`, which writes keys in insertion
 	// order — so where an optional key sits is part of the artifact, and an
@@ -158,7 +159,7 @@ export function buildAssistantCorpusContent(
 		}))
 	}));
 
-	return {
+	const baseContent = {
 		formatVersion: CORPUS_FORMAT_VERSION,
 		ruleSetVersion: currentRuleSet.version,
 		rules,
@@ -173,6 +174,10 @@ export function buildAssistantCorpusContent(
 		},
 		policyNotes: policyNotesFromRulesDoc(rulesMd)
 	};
+	if (documentationDocs.length > 0) {
+		return { ...baseContent, documentationNotes: documentationDocs };
+	}
+	return baseContent;
 }
 
 export async function corpusContentHash(
@@ -185,9 +190,10 @@ export async function corpusContentHash(
 
 export async function buildAssistantCorpus(
 	rulesMd: string,
-	generatedAt: string
+	generatedAt: string,
+	documentationDocs: string[] = []
 ): Promise<AssistantCorpus> {
-	const content = buildAssistantCorpusContent(rulesMd);
+	const content = buildAssistantCorpusContent(rulesMd, documentationDocs);
 	const contentHash = await corpusContentHash(content);
 	// Key order matters only for human diffs; hashing covers `content` alone, so
 	// regenerating never dirties the artifact unless the reviewed data moved.

@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Clock3, Plus } from 'lucide-svelte';
+	import { Clock3, Plus, Video, VideoOff } from 'lucide-svelte';
 	import type { AssistantState } from '$lib/assistant/assistant.svelte.js';
 	import { dismissOnOutside } from '$lib/interaction/dismiss.js';
 	import RemoveButton from '$lib/ui/primitives/RemoveButton.svelte';
@@ -16,11 +16,23 @@
 	let chatsOpen = $state(false);
 	let chatsTrigger = $state<HTMLElement>();
 	let deleteChatId = $state<string | undefined>();
+	let videoInputOpen = $state(false);
+	let videoUrlInput = $state('');
+
+	$effect(() => {
+		if (videoInputOpen) {
+			videoUrlInput = assistant.videoUrl ?? '';
+		}
+	});
 
 	function dismissChats(): void {
 		if (!chatsOpen) return;
 		chatsOpen = false;
 		deleteChatId = undefined;
+	}
+
+	function dismissVideoInput(): void {
+		videoInputOpen = false;
 	}
 
 	function openChat(id: string): void {
@@ -39,9 +51,75 @@
 			chatsTrigger?.focus();
 		}
 	}
+
+	function setVideoMode(): void {
+		const trimmed = videoUrlInput.trim();
+		assistant.setVideoUrl(trimmed ? trimmed : undefined);
+		videoInputOpen = false;
+	}
+
+	function clearVideoMode(): void {
+		videoUrlInput = '';
+		assistant.setVideoUrl(undefined);
+		videoInputOpen = false;
+	}
 </script>
 
 <div class="assistant-chat-controls">
+	<details
+		class="assistant-video-mode"
+		bind:open={videoInputOpen}
+		{@attach dismissOnOutside(dismissVideoInput)}
+	>
+		<!-- svelte-ignore a11y_no_redundant_roles -->
+		<summary
+			class="button--quiet icon-button assistant-chats__trigger"
+			role="button"
+			aria-label={assistant.videoUrl ? 'Video Mode Enabled' : 'Video Mode'}
+			title={assistant.videoUrl ? `Video Mode Enabled (${assistant.videoUrl})` : 'Video Mode'}
+			aria-expanded={videoInputOpen}
+		>
+			{#if assistant.videoUrl}
+				<Video aria-hidden="true" size={15} strokeWidth={2.25} />
+			{:else}
+				<VideoOff aria-hidden="true" size={15} strokeWidth={2.25} />
+			{/if}
+		</summary>
+		<div class="assistant-video-mode__popover" style="min-width: 260px;">
+			<h3 class="assistant-chats__heading">Video Support Mode</h3>
+			<p
+				style="font-size: var(--font-size-xs); color: var(--color-text-muted); margin-bottom: 8px;"
+			>
+				Pass YouTube video URL to Gemini Flash for video-assisted transcription checking.
+			</p>
+			<form
+				onsubmit={(e) => {
+					e.preventDefault();
+					setVideoMode();
+				}}
+			>
+				<input
+					type="url"
+					placeholder="https://www.youtube.com/watch?v=…"
+					bind:value={videoUrlInput}
+					style="width: 100%; padding: 4px 8px; font-size: 13px; margin-bottom: 8px; border: 1px solid var(--color-border); border-radius: 4px; background: var(--color-surface);"
+				/>
+				<div style="display: flex; gap: 6px; justify-content: flex-end;">
+					{#if assistant.videoUrl}
+						<button
+							type="button"
+							class="button--quiet"
+							style="font-size: 12px;"
+							onclick={clearVideoMode}
+						>
+							Clear
+						</button>
+					{/if}
+					<button type="submit" class="button" style="font-size: 12px;"> Save URL </button>
+				</div>
+			</form>
+		</div>
+	</details>
 	{#if assistant.chats.length > 0}
 		<details class="assistant-chats" bind:open={chatsOpen} {@attach dismissOnOutside(dismissChats)}>
 			<!-- svelte-ignore a11y_no_redundant_roles -->

@@ -11,7 +11,7 @@
  * is byte-stable. The parity tests in src/lib/rules/assistant-corpus.test.ts
  * fail when the committed artifact is stale relative to the reviewed data.
  */
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { mkdir, readdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { format, resolveConfig } from 'prettier';
@@ -32,6 +32,16 @@ interface ExistingCorpusStamp {
 }
 
 const rulesMd = await readFile(join(root, 'docs/rules.md'), 'utf8');
+const docDir = join(root, 'documentation');
+// SAFETY: fallback value when directory read fails
+const docFiles = await readdir(docDir).catch(() => [] as string[]);
+const docMdFiles = docFiles.filter((f) => f.endsWith('.md')).sort();
+const documentationDocs: string[] = [];
+for (const file of docMdFiles) {
+	const text = await readFile(join(docDir, file), 'utf8');
+	documentationDocs.push(`${file}\n${text.trim()}`);
+}
+
 // SAFETY: this file is written by this script alone, a few lines below, from a
 // corpus that always carries both fields — and both are read as optional here,
 // so an artifact from an older generator is treated as having no stamp and
@@ -39,7 +49,7 @@ const rulesMd = await readFile(join(root, 'docs/rules.md'), 'utf8');
 const existing = await readFile(target, 'utf8')
 	.then((text) => JSON.parse(text) as ExistingCorpusStamp)
 	.catch(() => undefined);
-const candidate = await buildAssistantCorpus(rulesMd, new Date().toISOString());
+const candidate = await buildAssistantCorpus(rulesMd, new Date().toISOString(), documentationDocs);
 // A no-op regeneration must be byte-stable. Preserve the build stamp whenever
 // the reviewed content hash has not moved; a real corpus change receives a new
 // stamp.

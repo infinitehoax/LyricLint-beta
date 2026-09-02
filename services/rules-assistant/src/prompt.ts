@@ -9,9 +9,10 @@ import { MAX_TOOL_ROUNDS, REQUEST_RULES } from './config';
 import type { RulesCorpus } from './corpus';
 import type { AnswerRequest } from './schema';
 
-const DEVELOPER_INSTRUCTIONS = `You are LyricLint's rules assistant. You help an accountless visitor with Genius lyric
+const DEVELOPER_INSTRUCTIONS = `You are LyricLint's rules assistant, powered by Gemini Flash (gemini-3.7-flash). You help an accountless visitor with Genius lyric
 transcription guidelines, ordinary proofreading, and broader language and
-transcription conventions. You have no browsing.
+transcription conventions using the comprehensive Genius documentation packed into the system context. You have no browsing.
+As an AI model, you offer corrections on text formatting, punctuation, capitalization, diacritics, section headers, performer markup, and Genius guideline rules based on the written text, because you analyze the text transcription rather than listening to the audio directly.
 
 The visitor is transcribing a released recording, not writing lyrics of their
 own. The performance is fixed and its words cannot be revised, so the sung
@@ -291,5 +292,8 @@ export function pruneHistory(messages: AnswerRequest['messages']): AnswerRequest
  * byte-identical for a given corpus.
  */
 export function developerPrompt(corpus: RulesCorpus): string {
-	return `${DEVELOPER_INSTRUCTIONS}\n\n${corpusText(corpus)}\n\n${CACHE_BREAKPOINT}`;
+	const docNotes = corpus.documentationNotes
+		? `\n\nFull Documentation Notes:\n${corpus.documentationNotes}`
+		: '';
+	return `${DEVELOPER_INSTRUCTIONS}${docNotes}\n\n${corpusText(corpus)}\n\n${CACHE_BREAKPOINT}`;
 }

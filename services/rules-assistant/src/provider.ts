@@ -78,7 +78,8 @@ export interface AnswerProvider {
 		signal: AbortSignal,
 		toolsAvailable?: boolean,
 		onOutputTextDelta?: (delta: string) => void,
-		onUsage?: (usage: ProviderUsage) => void
+		onUsage?: (usage: ProviderUsage) => void,
+		videoUrl?: string
 	): Promise<ProviderResult>;
 }
 
@@ -324,7 +325,8 @@ function settledInputItem(
 export function providerRequest(
 	messages: AnswerRequest['messages'],
 	safetyIdentifier: string,
-	toolsAvailable = false
+	toolsAvailable = false,
+	videoUrl?: string
 ): Omit<OpenAI.Responses.ResponseCreateParamsNonStreaming, 'stream'> {
 	const pruned = pruneHistory(messages);
 	// The history is walked in order rather than grouped by kind. Grouped — every
@@ -335,6 +337,16 @@ export function providerRequest(
 	const input: OpenAI.Responses.ResponseInputItem[] = [
 		settledInputItem('developer', developerPrompt(corpus), true)
 	];
+	if (videoUrl) {
+		input.push(
+			settledInputItem(
+				'developer',
+				`Attached YouTube Video Context: ${videoUrl}\n` +
+					`The visitor has provided a YouTube video URL for this transcription session. ` +
+					`Use this video URL context to assist with analyzing or cross-referencing the song video with the transcription.`
+			)
+		);
+	}
 	for (const message of pruned) {
 		if (message.role === 'assistant' && 'toolCalls' in message) {
 			input.push(...decodeProviderItems(message.providerItems));
@@ -543,12 +555,13 @@ export function createOpenAiProvider(
 		signal,
 		toolsAvailable = false,
 		onOutputTextDelta,
-		onUsage
+		onUsage,
+		videoUrl
 	) => {
 		let response: OpenAI.Responses.Response;
 		try {
 			const stream = client.responses.stream(
-				providerRequest(messages, safetyIdentifier, toolsAvailable),
+				providerRequest(messages, safetyIdentifier, toolsAvailable, videoUrl),
 				{ signal }
 			);
 			if (onOutputTextDelta) {

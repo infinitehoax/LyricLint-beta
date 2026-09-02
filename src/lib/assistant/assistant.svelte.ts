@@ -56,6 +56,7 @@ export interface AssistantDeps {
 	getDraftAccess?(draftId: string): Promise<DraftAccessDecision | undefined>;
 	setDraftAccess?(draftId: string, decision: DraftAccessDecision): Promise<void>;
 	clearDraftAccess?(draftId: string): Promise<void>;
+	videoUrl?(): string | undefined;
 }
 
 interface AssistantFailure {
@@ -281,6 +282,7 @@ export function createAssistantState(deps: AssistantDeps) {
 	let draftBridge = $state.raw<AssistantDraftBridge | undefined>(undefined);
 	let draftAccessState = $state<DraftAccessDecision | undefined>(undefined);
 	let toolSession = $state<AssistantToolSession | undefined>(undefined);
+	let activeVideoUrl = $state<string | undefined>(undefined);
 	let bridgeGeneration = 0;
 	/** The attempt a challenge resumes. */
 	let currentAttempt: { assistantMessageId: string } | undefined;
@@ -553,6 +555,7 @@ export function createAssistantState(deps: AssistantDeps) {
 					],
 					clientRuleSetVersion: deps.ruleSetVersion,
 					toolsAvailable: draftBridge !== undefined,
+					videoUrl: activeVideoUrl ?? deps.videoUrl?.(),
 					onProgress: showProgress,
 					onRetry: resetProgress
 				};
@@ -753,6 +756,12 @@ export function createAssistantState(deps: AssistantDeps) {
 		},
 		get draftAccessState() {
 			return draftAccessState;
+		},
+		get videoUrl() {
+			return activeVideoUrl ?? deps.videoUrl?.();
+		},
+		setVideoUrl(url: string | undefined) {
+			activeVideoUrl = url;
 		},
 
 		async open(): Promise<void> {
