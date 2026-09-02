@@ -506,7 +506,8 @@ export function createHandler(options: HandlerOptions = {}) {
 										},
 										(providerUsage) => {
 											usage = providerUsage;
-										}
+										},
+										body.videoUrl
 									);
 									console.warn('assistant_delta_profile', {
 										requestId,
@@ -569,7 +570,8 @@ export function createHandler(options: HandlerOptions = {}) {
 												},
 												(providerUsage) => {
 													usage = sumUsage(firstUsage, providerUsage);
-												}
+												},
+												body.videoUrl
 											);
 											usage = sumUsage(firstUsage, result.usage);
 											if (result.kind !== 'answer') {
@@ -672,7 +674,8 @@ export function createHandler(options: HandlerOptions = {}) {
 							metricUsage = providerUsage;
 							spendUsd = estimateSpendUsd(providerUsage);
 							metricSpendUsd = spendUsd;
-						}
+						},
+						body.videoUrl
 					);
 					metricUsage = result.usage;
 					spendUsd = estimateSpendUsd(result.usage);
@@ -739,7 +742,8 @@ export function createHandler(options: HandlerOptions = {}) {
 								metricUsage = combinedUsage;
 								spendUsd = estimateSpendUsd(combinedUsage);
 								metricSpendUsd = spendUsd;
-							}
+							},
+							body.videoUrl
 						);
 						const combinedUsage = sumUsage(firstResult.usage, result.usage)!;
 						metricUsage = combinedUsage;

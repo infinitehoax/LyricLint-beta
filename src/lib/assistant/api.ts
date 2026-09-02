@@ -96,6 +96,7 @@ interface TurnRequestBody {
 	supportsRetry: true;
 	toolsAvailable?: true;
 	turnstileToken?: string;
+	videoUrl?: string;
 }
 
 export interface AskOptions {
@@ -104,6 +105,7 @@ export interface AskOptions {
 	clientRuleSetVersion: string;
 	toolsAvailable?: boolean;
 	turnstileToken?: string;
+	videoUrl?: string;
 	onProgress?(answer: StructuredAssistantAnswer): void | Promise<void>;
 	onRetry?(): void | Promise<void>;
 	fetcher?: typeof fetch;
@@ -144,6 +146,7 @@ async function sendTurn(
 	};
 	if (options.toolsAvailable) body.toolsAvailable = true;
 	if (options.turnstileToken) body.turnstileToken = options.turnstileToken;
+	if (options.videoUrl) body.videoUrl = options.videoUrl;
 	let response: Response;
 	try {
 		response = await fetcher(assistantAnswersUrl(), {

@@ -71,8 +71,8 @@ export const SESSION_RULES = {
 } as const;
 
 export const MODEL = {
-	/** Provider-native OpenAI model id, routed through Cloudflare AI Gateway. */
-	id: 'gpt-5.6-luna',
+	/** Provider-native Gemini Flash model id, routed through Cloudflare AI Gateway. */
+	id: 'gemini-3.7-flash',
 	// Medium keeps this interactive rules assistant on GPT-5.6's conversational
 	// baseline. Higher efforts spend more of maxOutputTokens on reasoning and can
 	// put long stretches of silence before the first streamed token.

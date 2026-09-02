@@ -5,7 +5,7 @@
  * drifts from the frontend ruleset version, or when anything unreviewed leaks
  * into what the assistant is allowed to cite.
  */
-import { readFileSync } from 'node:fs';
+import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { corpus as generatedCorpus } from '../../../services/rules-assistant/generated/rules-context-data.js';
@@ -22,6 +22,13 @@ import { enabledRules } from './registry.js';
 
 const root = join(__dirname, '../../..');
 const rulesMd = readFileSync(join(root, 'docs/rules.md'), 'utf8');
+const docDir = join(root, 'documentation');
+const docFiles = readdirSync(docDir)
+	.filter((f) => f.endsWith('.md'))
+	.sort();
+const documentationDocs = docFiles.map(
+	(f) => `${f}\n${readFileSync(join(docDir, f), 'utf8').trim()}`
+);
 const committed: AssistantCorpus = generatedCorpus;
 
 describe('assistant corpus parity', () => {
@@ -143,13 +150,13 @@ describe('assistant corpus parity', () => {
 	});
 
 	it('is not stale: regenerating from the reviewed data reproduces the committed hash', async () => {
-		const content = buildAssistantCorpusContent(rulesMd);
+		const content = buildAssistantCorpusContent(rulesMd, documentationDocs);
 		expect(await corpusContentHash(content)).toBe(committed.contentHash);
 	});
 
 	it('is deterministic', async () => {
-		const first = buildAssistantCorpusContent(rulesMd);
-		const second = buildAssistantCorpusContent(rulesMd);
+		const first = buildAssistantCorpusContent(rulesMd, documentationDocs);
+		const second = buildAssistantCorpusContent(rulesMd, documentationDocs);
 		expect(await corpusContentHash(first)).toBe(await corpusContentHash(second));
 		expect(second).toEqual(first);
 	});

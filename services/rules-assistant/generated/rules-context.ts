@@ -85,4 +85,5 @@ export interface AssistantCorpus {
 	languages: AssistantCorpusLanguage[];
 	harper: { ruleIds: string[]; behavior: string; limitations: string[] };
 	policyNotes: string[];
+	documentationNotes?: string[];
 }

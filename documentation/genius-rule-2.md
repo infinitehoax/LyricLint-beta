@@ -1,4 +1,3 @@
-
 ==================================================
 annotation_11011236
 This guide explains all the
@@ -44,7 +43,7 @@ Anyone can add a
 new song by clicking
 the "ADD A SONG"
 link at the top of the
-page. —> 
+page. —>
 Lyric Accuracy
 Genius prides itself in
 hosting accurate
@@ -53,7 +52,7 @@ lyrics should look
 clean and concise and
 the text itself should
 be as correct as
-possible. 
+possible.
 .
 Grammar (Spelling,
 Capitalization, etc.)
@@ -151,12 +150,12 @@ on a page separate
 from the primary lyric
 page:
 How To Edit Lyrics
-Direct Edits: 
- by clicking the
+Direct Edits:
+by clicking the
 "Edit Lyrics" button
 above the lyrics and
 below the page's
-header -> 
+header ->
 Proposing Lyric Edits:
 This feature allows
 users and non-users
@@ -193,1214 +192,1218 @@ the best practices for
 handling those
 corrections in their
 respective setting:
- —>
+—>
 Upvote and archive
 if right, archive if
 wrong
- —
+—
+
 > Upvote and
-archive if right,
-archive if wrong
+> archive if right,
+> archive if wrong
 > Accept + delete if
-right, reject if
-How to moderate
-proposed lyric
-edits
-In the comment
-section below an
-annotation
-As a question in
-the Q+A section
-As an annotation
-Adding Unreleased
-Music to Genius
-Unreleased Songs
-(Snippets & Live
-Performance
-Premieres)
-Unreleased song
-lyrics should ONLY be
-added to Genius if
-one of the following
-conditions applies:
-In either case, citing
-your source is crucial
-— immediately after
-creating the song
-page, add Q&A with
-the following
-information:
-When/where the
-song was first
-revealed
-If applicable, link to
-the video/audio
-(Only if the media
-is found on social
-media,
-SoundCloud, or
-A snippet/full song
-has been teased by
-the artist
-The artist performs
-the song in a
-live/livestream
-setting
-YouTube — DO
-NOT link to leak
-sites)
-Snippet example:
-"When and where
-was this song first
-previewed?"
-"This snippet was
-originally posted
-by Lil Yachty to his
-Instagram story on
-March 2nd, 2018."
-Live example:
-performed?"
-"This song was
-originally
-performed live by
-The Weeknd in Sao
-Paulo, Brazil on
-September 7,
-2024."
-Please do not post
-lyrics for songs that
-leak pre-release, fan-
-made mashups, songs
-that go against our
-community policy, or
-songs that do not
-exist. Additionally,
-please do not create
-song or album pages
-to catalog unreleased
-music by a specific
-artist. Pages that do
-not adhere to our
-guidelines may be
-removed. Repeated
-offenses may result in
-an account ban at the
-discretion of Genius
-staff.
-Albums to Genius
-If an artist announces
-that they're working
-on a project, but the
-title hasn't been
-announced, you can
-use the artist's initials
-followed by the
-number that
-corresponds with
-how many albums
-they have in their
-discography. For
-example, if Drake is
-set to release his 5th
-studio album, it
-would be titled D5
-until the official title is
-announced.
-an album's title, it can
-as normal.
-Adding Tracks to an
-Unreleased Album
-If an unreleased
-album's tracklist
-hasn't been officially
-revealed, only add
-the following tracks
-to it:
-Songs that have
-officially been
-confirmed to
-appear on the
-project
-Recent singles that
-were not a part of
-a previous album
-cycle
-Recent snippets or
-confirmed titles
-Track numbers —>
-Make sure to leave
-track numbers blank
-until the tracklist has
-been officially
-announced — adding
-track numbers gives
-the page a
-heightened sense of
-authenticity.
-Album bio —> The bio
-section should
-include sources as to
-when and where the
-title and artwork (if
-applicable) were
-announced. If the
-album's tracklist is still
-speculative, add the
-following in bold to
-the top of the album
-bio:
-This tracklist is
-unconfirmed. It is
-compiled of recent
-singles, snippets, and
-song titles sourced
-from streaming
-services, PRO's, and
-social media. It is
-purely speculative
-and has not been
-confirmed by the
-artist. We will update
-this tracklist as more
-information comes to
-light.
-Songs with AI-
-Generated Vocals
-Songs that include AI-
-generated vocals may
-be added to the site
-when they fit at least
-criteria:
-The song has been
-released by an
-established
-recording artist, is
-not fan-made, and
-is not by an AI,
-mashup, or cover
-artist (e.g. "Taylor
-Made Freestyle" by
-Drake)
-officially released
-and is distributed
-on streaming
-services (e.g. "U My
-Everything" by
-Sexyy Red & Drake)
-released by the
-artist whose voice
-has been
-synthesized (e.g.
-"SKY CITY" by ¥$)
-The artist (or estate
-of) whose voice
-synthesized has
-given consent for
-their voice to be
-used
-recording artist
-and the AI-
-generated vocals
-are not meant to
-sound like anyone
-in particular (e.g.
-"BBL DRIZZY BPM
-150.mp3" by Metro
-Boomin)
-by a virtual or AI
-group or artist and
-is distributed on
-streaming services
-(e.g. "Jack Park
-Canny Dope Man"
-by Travisbott)
-To learn how to label
-AI in song pages, see
-"Including Artist
-Names" in the "Use
-section headers
-above different song
-parts" annotation.
-Sourcing Lyrics
-Please do not copy
-and paste lyrics to
-Genius from any lyric
-website. Doing so is
-essentially plagiarism
-and will result in a
-warning or strike on
-your account.
-The only time it is
-permissible to use an
-existing set of lyrics in
-your transcription is if
-the artist or their
-team releases lyrics.
-These official lyrics
-can be found in
-numerous places:
-some common
-examples are on
-Bandcamp, the song's
-YouTube/SoundCloud
-bio, press releases,
-and in the liner notes
-included in a physical
-release.
-Official lyric sheets
-often contain errors
-though — most often
-small formatting
-mistakes, but in some
-cases, egregious
-comprehension
-mistakes that include
-inaccurate words
-altogether. When
-adding official lyrics,
-make sure to update
-them to adhere to
-Genius' core
-standards:
-Make sure all lyrics
-are included,
-including repeated
-sections
-Make sure lyrics are
-accurate — any
-inaccuracies should
-be edited
-formatted well —
-update all
-formatting to
-adhere to Genius'
-standards
-Want to Dive
-Deeper?
-But wait, there's
-more! Since you know
-the basics and have
-now become hooked
-on transcribing, here's
-how you can take
-your transcription
-game to the next
-level:
-Release Calendars
-Transcribing from and
-updating our release
-calendars are a great
-way to help out!
-Whenever you
-transcribe a song
-found on the release
-calendar, you can
-either edit or leave a
-comment on the
-annotation, indicating
-that the song is up.
-Join the
-@transcribers forum!
-Subscribing to the
-@transcribers forum
-is a major key to
-becoming a top notch
-transcriber. Here,
-you'll get updates,
-new transcription
-requests, and general
-conversation around
-transcription topics. If
-subscribed, you'll also
-get notifications
-when someone
-around the site needs
-your help.
-Transcribing high
-traffic pages
-We've all been here
-before — everybody
-wants to transcribe
-the biggest song
-releases. When
-everybody tries to
-transcribe at the same
-time, it only makes
-the process more
-strenuous and time-
-consuming. There is
-currently no way to
-entirely prevent other
-users from attempting
-to transcribe while
-you are, but here are
-some tips:
-Shell Pages
-How to make shell
-pages
-Managing Duplicate
-Pages
-How to transcribe
-high traffic songs
-High traffic song
-etiquette
-What is a shell
-page?
-Non-Anticipated
-Releases/Already
-Released Songs
-Highly Anticipated
-Releases
-What is a duplicate
-Embed
-Awarding
-Transcription IQ
-Contact
-Anyone in the
-can answer questions
-about the
-transcription
-experience on Genius.
-If you have any
-additional questions,
-feel free to hit up
-@streetlights!
-How can I
-determine which
-page is considered
-a "duplicate"?
-I know what the
-duplicate page is —
-now what?
-How does
-transcription IQ get
-awarded?
-What songs should
-be manually
-awarded IQ?
-About
-Song Bio
-2 contributors
-Expand  
-songs to Genius, including a
-step-by-step guide,
-formatting conventions, and
-more.
-It’s intended as a manual for
-new users, and a reference
-tool for transcribers looking
-+692
-1
-30
-Share
-Q&A
-Find answers to frequently
-asked questions about the
-song and explore its deeper
-meaning
-Ask a question
-How should I signify
-that a chorus has
-been repeated?
-Answer
-2
-contributors
-Whenever lyrics are
-repeated they
-should be typed out
-in their entirety. Read
-more here.
-How do I add a song
-with 'Missing Lyrics' or
-'Unreleased' to the
-site?
-To add a shell page
-you would follow
-the directions here
-and here.
-How should we
-handle discrepancies
-between official lyrics
-and recording?
-Oftentimes, lyrics are
-written, then
-+117
-+92
-recorded slightly
-differently. It’s best
-to initially go off of
-the official lyric
-booklet, then revise
-based on the
-recording.
-How do you lay out
-lyrics side by side
-when they are in
-unison?
-How do I separate
-two parts of the same
-song? Like that on
-'Bad guy'- Eminem?
-How do you
-transcribe lyrics when
-there is a fade-out?
-Do you put a question
-mark in a
-transcription?
-If the song is in
-another language,
-which lyrics do I use?
-Can I add a song that
-is in another
-language?
-Are songs on Genius
-auto transcribed?
-Can I request a song
-for someone else to
-transcribe?
-How do I let people
-know a song is a
-+170
-cover?
-How do you say a
-song was sampled?
-How can I submit a
-song whose album is
-not registered?
-Where do I submit
-corrections to the
-song title?
-What tags should I be
-using for the songs I
-add?
-A group changed their
-name and has songs
-under 2 names should
-they have 2 pages?
-What do I do if I don't
-know what header to
-add for a certain part
-of a song?
-In parentheses (when
-typing ad-libs) should
-we start with a capital
-letter?
-Why do I sometimes
-get IQ for adding
-missing lyrics to a
-song, sometimes not?
-How can I delete a
-song off of Genius?
-How do I indicate that
-a song has no lyrics?
-Is there a
-correct/incorrect way
-of typing spoken
-parts?
-Can I add songs of my
-own to Genius?
-Should you add the
-headings? (for
-example, label the
-chorus as [Chorus])
-A single I transcribed
-needs an album title
-but there isn't one
-How do you type in
-italics ?
-How can I add a new
-artist?
-Can I add lyrics to a
-song which is written
-by me?
-Can I add a song and
-have someone else
-add the lyrics?
-Can you add an
-album?
-What about the
-remixes with changed
-beats? Duplicates or
-not?
-song I posted?
-that isn't my own if
-the artist doesn't have
-a page/account?
-How do I add
-artwork?
-How can you make
-the title of your song
-lowercase?
-How do you add the
-Parody Of labels?
-How do you show a
-song has a Clean
-version in the song
-relationships?
-How do you submit a
-song that is by an
-artist that's not on
-Genius yet?
-How can I make a
-album fan made?
-How do I add a
-record label
-How do you make
-text appear both left
-and right?
-How can I add an
-artist that shares a
-name with multiple
-artists already?
-How come I'm not
-getting IQ for
-transcribing a new
-song?
-How to add the track
-number to songs?
-In which order do I
-put the artists on the
-header? Alphabetic?
-Appearance?
-Could I transcribe a
-song that has only
-been released on
-YouTube and is on no
-other streaming
-platform?
-If a song is from
-YouTube, even if it’s
-original.. can you add
-lyrics on here?
-how to create an
-album page?
-how to add a translate
-lyrics for a song ?
-What should I do if I
-need to close the tab
-but the lyrics are
-incomplete?
-How to I mark a lyric
-as having multiple
-meanings?
-How do I claim my
-artist account if i
-created it with
-another account?
-How do I add missing
-songs to an existing
-how do i add extra
-infomation on a
-spanish song
-What happens if I try
-to add an em dash
-and I get an error
-stating there is an
-"uneven amount of
-parentheses or square
-brackets" even though
-they are perfectly
-formatted?
-Can I select another
-music library rather
-than Apple Music?
-What if you add
-songs that haven’t
-released, such as a
-song for a fanmade
-What are the grammar
-rules on the use of ":"
-and ";"?
-Should you transcribe
-vocal chops?
-Can I add a book that
-I like?
-Who wrote “How to
-Add Songs to Genius”
-by Genius?
-Guides
+> right, reject if
+> How to moderate
+> proposed lyric
+> edits
+> In the comment
+> section below an
+> annotation
+> As a question in
+> the Q+A section
+> As an annotation
+> Adding Unreleased
+> Music to Genius
+> Unreleased Songs
+> (Snippets & Live
+> Performance
+> Premieres)
+> Unreleased song
+> lyrics should ONLY be
+> added to Genius if
+> one of the following
+> conditions applies:
+> In either case, citing
+> your source is crucial
+> — immediately after
+> creating the song
+> page, add Q&A with
+> the following
+> information:
+> When/where the
+> song was first
+> revealed
+> If applicable, link to
+> the video/audio
+> (Only if the media
+> is found on social
+> media,
+> SoundCloud, or
+> A snippet/full song
+> has been teased by
+> the artist
+> The artist performs
+> the song in a
+> live/livestream
+> setting
+> YouTube — DO
+> NOT link to leak
+> sites)
+> Snippet example:
+> "When and where
+> was this song first
+> previewed?"
+> "This snippet was
+> originally posted
+> by Lil Yachty to his
+> Instagram story on
+> March 2nd, 2018."
+> Live example:
+> performed?"
+> "This song was
+> originally
+> performed live by
+> The Weeknd in Sao
+> Paulo, Brazil on
+> September 7,
+> 2024."
+> Please do not post
+> lyrics for songs that
+> leak pre-release, fan-
+> made mashups, songs
+> that go against our
+> community policy, or
+> songs that do not
+> exist. Additionally,
+> please do not create
+> song or album pages
+> to catalog unreleased
+> music by a specific
+> artist. Pages that do
+> not adhere to our
+> guidelines may be
+> removed. Repeated
+> offenses may result in
+> an account ban at the
+> discretion of Genius
+> staff.
+> Albums to Genius
+> If an artist announces
+> that they're working
+> on a project, but the
+> title hasn't been
+> announced, you can
+> use the artist's initials
+> followed by the
+> number that
+> corresponds with
+> how many albums
+> they have in their
+> discography. For
+> example, if Drake is
+> set to release his 5th
+> studio album, it
+> would be titled D5
+> until the official title is
+> announced.
+> an album's title, it can
+> as normal.
+> Adding Tracks to an
+> Unreleased Album
+> If an unreleased
+> album's tracklist
+> hasn't been officially
+> revealed, only add
+> the following tracks
+> to it:
+> Songs that have
+> officially been
+> confirmed to
+> appear on the
+> project
+> Recent singles that
+> were not a part of
+> a previous album
+> cycle
+> Recent snippets or
+> confirmed titles
+> Track numbers —>
+> Make sure to leave
+> track numbers blank
+> until the tracklist has
+> been officially
+> announced — adding
+> track numbers gives
+> the page a
+> heightened sense of
+> authenticity.
+> Album bio —> The bio
+> section should
+> include sources as to
+> when and where the
+> title and artwork (if
+> applicable) were
+> announced. If the
+> album's tracklist is still
+> speculative, add the
+> following in bold to
+> the top of the album
+> bio:
+> This tracklist is
+> unconfirmed. It is
+> compiled of recent
+> singles, snippets, and
+> song titles sourced
+> from streaming
+> services, PRO's, and
+> social media. It is
+> purely speculative
+> and has not been
+> confirmed by the
+> artist. We will update
+> this tracklist as more
+> information comes to
+> light.
+> Songs with AI-
+> Generated Vocals
+> Songs that include AI-
+> generated vocals may
+> be added to the site
+> when they fit at least
+> criteria:
+> The song has been
+> released by an
+> established
+> recording artist, is
+> not fan-made, and
+> is not by an AI,
+> mashup, or cover
+> artist (e.g. "Taylor
+> Made Freestyle" by
+> Drake)
+> officially released
+> and is distributed
+> on streaming
+> services (e.g. "U My
+> Everything" by
+> Sexyy Red & Drake)
+> released by the
+> artist whose voice
+> has been
+> synthesized (e.g.
+> "SKY CITY" by ¥$)
+> The artist (or estate
+> of) whose voice
+> synthesized has
+> given consent for
+> their voice to be
+> used
+> recording artist
+> and the AI-
+> generated vocals
+> are not meant to
+> sound like anyone
+> in particular (e.g.
+> "BBL DRIZZY BPM
+> 150.mp3" by Metro
+> Boomin)
+> by a virtual or AI
+> group or artist and
+> is distributed on
+> streaming services
+> (e.g. "Jack Park
+> Canny Dope Man"
+> by Travisbott)
+> To learn how to label
+> AI in song pages, see
+> "Including Artist
+> Names" in the "Use
+> section headers
+> above different song
+> parts" annotation.
+> Sourcing Lyrics
+> Please do not copy
+> and paste lyrics to
+> Genius from any lyric
+> website. Doing so is
+> essentially plagiarism
+> and will result in a
+> warning or strike on
+> your account.
+> The only time it is
+> permissible to use an
+> existing set of lyrics in
+> your transcription is if
+> the artist or their
+> team releases lyrics.
+> These official lyrics
+> can be found in
+> numerous places:
+> some common
+> examples are on
+> Bandcamp, the song's
+> YouTube/SoundCloud
+> bio, press releases,
+> and in the liner notes
+> included in a physical
+> release.
+> Official lyric sheets
+> often contain errors
+> though — most often
+> small formatting
+> mistakes, but in some
+> cases, egregious
+> comprehension
+> mistakes that include
+> inaccurate words
+> altogether. When
+> adding official lyrics,
+> make sure to update
+> them to adhere to
+> Genius' core
+> standards:
+> Make sure all lyrics
+> are included,
+> including repeated
+> sections
+> Make sure lyrics are
+> accurate — any
+> inaccuracies should
+> be edited
+> formatted well —
+> update all
+> formatting to
+> adhere to Genius'
+> standards
+> Want to Dive
+> Deeper?
+> But wait, there's
+> more! Since you know
+> the basics and have
+> now become hooked
+> on transcribing, here's
+> how you can take
+> your transcription
+> game to the next
+> level:
+> Release Calendars
+> Transcribing from and
+> updating our release
+> calendars are a great
+> way to help out!
+> Whenever you
+> transcribe a song
+> found on the release
+> calendar, you can
+> either edit or leave a
+> comment on the
+> annotation, indicating
+> that the song is up.
+> Join the
+> @transcribers forum!
+> Subscribing to the
+> @transcribers forum
+> is a major key to
+> becoming a top notch
+> transcriber. Here,
+> you'll get updates,
+> new transcription
+> requests, and general
+> conversation around
+> transcription topics. If
+> subscribed, you'll also
+> get notifications
+> when someone
+> around the site needs
+> your help.
+> Transcribing high
+> traffic pages
+> We've all been here
+> before — everybody
+> wants to transcribe
+> the biggest song
+> releases. When
+> everybody tries to
+> transcribe at the same
+> time, it only makes
+> the process more
+> strenuous and time-
+> consuming. There is
+> currently no way to
+> entirely prevent other
+> users from attempting
+> to transcribe while
+> you are, but here are
+> some tips:
+> Shell Pages
+> How to make shell
+> pages
+> Managing Duplicate
+> Pages
+> How to transcribe
+> high traffic songs
+> High traffic song
+> etiquette
+> What is a shell
+> page?
+> Non-Anticipated
+> Releases/Already
+> Released Songs
+> Highly Anticipated
+> Releases
+> What is a duplicate
+> Embed
+> Awarding
+> Transcription IQ
+> Contact
+> Anyone in the
+> can answer questions
+> about the
+> transcription
+> experience on Genius.
+> If you have any
+> additional questions,
+> feel free to hit up
+> @streetlights!
+> How can I
+> determine which
+> page is considered
+> a "duplicate"?
+> I know what the
+> duplicate page is —
+> now what?
+> How does
+> transcription IQ get
+> awarded?
+> What songs should
+> be manually
+> awarded IQ?
+> About
+> Song Bio
+> 2 contributors
+> Expand  
+> songs to Genius, including a
+> step-by-step guide,
+> formatting conventions, and
+> more.
+> It’s intended as a manual for
+> new users, and a reference
+> tool for transcribers looking
+> +692
+> 1
+> 30
+> Share
+> Q&A
+> Find answers to frequently
+> asked questions about the
+> song and explore its deeper
+> meaning
+> Ask a question
+> How should I signify
+> that a chorus has
+> been repeated?
+> Answer
+> 2
+> contributors
+> Whenever lyrics are
+> repeated they
+> should be typed out
+> in their entirety. Read
+> more here.
+> How do I add a song
+> with 'Missing Lyrics' or
+> 'Unreleased' to the
+> site?
+> To add a shell page
+> you would follow
+> the directions here
+> and here.
+> How should we
+> handle discrepancies
+> between official lyrics
+> and recording?
+> Oftentimes, lyrics are
+> written, then
+> +117
+> +92
+> recorded slightly
+> differently. It’s best
+> to initially go off of
+> the official lyric
+> booklet, then revise
+> based on the
+> recording.
+> How do you lay out
+> lyrics side by side
+> when they are in
+> unison?
+> How do I separate
+> two parts of the same
+> song? Like that on
+> 'Bad guy'- Eminem?
+> How do you
+> transcribe lyrics when
+> there is a fade-out?
+> Do you put a question
+> mark in a
+> transcription?
+> If the song is in
+> another language,
+> which lyrics do I use?
+> Can I add a song that
+> is in another
+> language?
+> Are songs on Genius
+> auto transcribed?
+> Can I request a song
+> for someone else to
+> transcribe?
+> How do I let people
+> know a song is a
+> +170
+> cover?
+> How do you say a
+> song was sampled?
+> How can I submit a
+> song whose album is
+> not registered?
+> Where do I submit
+> corrections to the
+> song title?
+> What tags should I be
+> using for the songs I
+> add?
+> A group changed their
+> name and has songs
+> under 2 names should
+> they have 2 pages?
+> What do I do if I don't
+> know what header to
+> add for a certain part
+> of a song?
+> In parentheses (when
+> typing ad-libs) should
+> we start with a capital
+> letter?
+> Why do I sometimes
+> get IQ for adding
+> missing lyrics to a
+> song, sometimes not?
+> How can I delete a
+> song off of Genius?
+> How do I indicate that
+> a song has no lyrics?
+> Is there a
+> correct/incorrect way
+> of typing spoken
+> parts?
+> Can I add songs of my
+> own to Genius?
+> Should you add the
+> headings? (for
+> example, label the
+> chorus as [Chorus])
+> A single I transcribed
+> needs an album title
+> but there isn't one
+> How do you type in
+> italics ?
+> How can I add a new
+> artist?
+> Can I add lyrics to a
+> song which is written
+> by me?
+> Can I add a song and
+> have someone else
+> add the lyrics?
+> Can you add an
+> album?
+> What about the
+> remixes with changed
+> beats? Duplicates or
+> not?
+> song I posted?
+> that isn't my own if
+> the artist doesn't have
+> a page/account?
+> How do I add
+> artwork?
+> How can you make
+> the title of your song
+> lowercase?
+> How do you add the
+> Parody Of labels?
+> How do you show a
+> song has a Clean
+> version in the song
+> relationships?
+> How do you submit a
+> song that is by an
+> artist that's not on
+> Genius yet?
+> How can I make a
+> album fan made?
+> How do I add a
+> record label
+> How do you make
+> text appear both left
+> and right?
+> How can I add an
+> artist that shares a
+> name with multiple
+> artists already?
+> How come I'm not
+> getting IQ for
+> transcribing a new
+> song?
+> How to add the track
+> number to songs?
+> In which order do I
+> put the artists on the
+> header? Alphabetic?
+> Appearance?
+> Could I transcribe a
+> song that has only
+> been released on
+> YouTube and is on no
+> other streaming
+> platform?
+> If a song is from
+> YouTube, even if it’s
+> original.. can you add
+> lyrics on here?
+> how to create an
+> album page?
+> how to add a translate
+> lyrics for a song ?
+> What should I do if I
+> need to close the tab
+> but the lyrics are
+> incomplete?
+> How to I mark a lyric
+> as having multiple
+> meanings?
+> How do I claim my
+> artist account if i
+> created it with
+> another account?
+> How do I add missing
+> songs to an existing
+> how do i add extra
+> infomation on a
+> spanish song
+> What happens if I try
+> to add an em dash
+> and I get an error
+> stating there is an
+> "uneven amount of
+> parentheses or square
+> brackets" even though
+> they are perfectly
+> formatted?
+> Can I select another
+> music library rather
+> than Apple Music?
+> What if you add
+> songs that haven’t
+> released, such as a
+> song for a fanmade
+> What are the grammar
+> rules on the use of ":"
+> and ";"?
+> Should you transcribe
+> vocal chops?
+> Can I add a book that
+> I like?
+> Who wrote “How to
+> Add Songs to Genius”
+> by Genius?
+> Guides
+
 1. About
 2. How
-Works
+   Works
 3. Communi
-ty Policy
-&
-Moderati
-on
-Guideline
+   ty Policy
+   &
+   Moderati
+   on
+   Guideline
 4. Genius
-FAQ
+   FAQ
 5. How to
-on Genius
+   on Genius
 6. How to
-Add
-Songs to
+   Add
+   Songs to
 7. How to
-Add Song
-Credits to
+   Add Song
+   Credits to
 8. Genius
-Writing
-Resource
+   Writing
+   Resource
 9. Formattin
-g &
-Markdow
-n Guide
+   g &
+   Markdow
+   n Guide
 10. How to
-Annotat
-e & Edit
+    Annotat
+    e & Edit
 11. Cover Art
-Guide:
-Adding &
-Annotati
-ng
+    Guide:
+    Adding &
+    Annotati
+    ng
 12. How to
-Edit
-Metadat
-a on
+    Edit
+    Metadat
+    a on
 13. How to
-Write
-Q&A on
+    Write
+    Q&A on
 14. How to
-Text &
-ons
+    Text &
+    ons
 15. What is a
-Contribu
-tor?
+    Contribu
+    tor?
 16. What is
-a
-Transcrib
-er?
+    a
+    Transcrib
+    er?
 17. What is
-an
-Editor?
+    an
+    Editor?
 18. What is
-Mediator
-?
+    Mediator
+    ?
 19. What is a
-Moderat
-or?
+    Moderat
+    or?
 20. Users’
-Langua
-ges
+    Langua
+    ges
 21. How to
-Translate
-Songs
+    Translate
+    Songs
 22. How to
-e &
-Transcri
-be
-Musicals
+    e &
+    Transcri
+    be
+    Musicals
 23. Lit
-Guidelin
-es
+    Guidelin
+    es
 24. Genius
-Internati
-onal
-Commu
-nities
+    Internati
+    onal
+    Commu
+    nities
 25. Song
-Sections
-Headers
-Guide
+    Sections
+    Headers
+    Guide
 26. Song
-in
-Differen
-t
+    in
+    Differen
+    t
 27. Keyboar
-d
-Shortcut
+    d
+    Shortcut
 28. Thread-
-Making
+    Making
 29. Tags -
-(Genres)
+    (Genres)
 30. How to
-e
+    e
 31. How to
-Bios
+    Bios
 32. How to
-Create &
-Format
-Cleanup
-Page
-34. Transcri
-ption
-Techniq
-ues for
-Accurat
-e Lyrics
-37. How to
-(Editor
-Guide)
-38. Transcri
-ber
-Account FAQ
-Cre
-dits
-Writer
-How to Add
-曲を
-Geniusに
-追加する
-方法 (How
-to Add
-Comments
-Add a comment
-Genius is the world’s
-iggest collection of
-ong lyrics and musical
-nowledge
-About Genius
-Contributor Guidelines
-Press
-Shop
-Advertise
-Privacy Policy
-Do Not Sell My
-Personal Information
-Licensing
-Jobs
-Developers
-Copyright Policy
-Contact Us
-Security
-Sign In
-© 2026 ML Genius Holdings, LLC
-Terms of Use
-And Drop
-Knowledg
-e 🤓
-Genius is the ultimate
-source of music
-knowledge, created by
-scholars like you who
-share facts and insight
-about the songs and
-artists they love.
-RIFIED ARTISTS
-•
-ALL ARTISTS:
-A B C D E F G H I J K L M N O P Q R S T U V W X Y Z #
-T SONGS:
-CREEP
-9 TO 5
-FALLEN ANGEL
-RISK IT ALL
-HOOTIE FRUTTI
-VIEW ALL
-annotation_11011011
-This guide explains all the details relating to adding songs to
-Genius, including a step-by-step guide, formatting conventions,
-Verified How to Add Songs to Genius Lyrics
-The Genius community prides itself on having accurate
-lyrics for new releases first. We're also constantly trying to
-grow our database by adding old songs and more obscure
-tracks.
-Anyone can add a new song by clicking the "ADD A SONG"
-link at the top of the page. —> 
-Genius prides itself in hosting accurate lyrics — this means
-lyrics should look clean and concise and the text itself
-should be as correct as possible. 
-Grammar (Spelling, Capitalization, etc.)
-Double-check all spelling
-Incomprehensible Lyrics
-More on adding lyrics
-Users should make an
-effort to transcribe the full song
-Use standardized spellings
-How to spell numbers
-Question / Exclamation Marks
-Hyphens and Em Dashes
-Symbols and Special Characters
-Only use conventional capitalization
-Transcribe all lyrics as the artist says them
-How to Add Songs to G
-3 Viewers
-1M Views
-Living Tracklist
-Get Verified
-Promote Your Music
-How To Format Lyrics
-In addition to lyric accuracy, maintaining easy-to-read and
-well-organized lyric formatting is a crucial part of Genius.
-Translations and Romanizations
-Additional song resources such as translations and
-romanizations should be added to Genius on a page
-separate from the primary lyric page:
- by clicking
-the "Edit Lyrics" button above the lyrics and below the
-page's header -> 
-Proposing Lyric Edits: This feature allows users and non-
-users to propose edits to lyrics that they normally wouldn't
-have access to edit on their own. Once a proposal has been
-submitted, it must be reviewed before being integrated into
-More on proposed lyric edits
-Integrating Lyric Corrections
-While our Proposed Lyric Edits feature should catch most
-lyric corrections, sometimes users leave their suggestions in
-other areas of song pages. For editors, here are the best
-If you don't understand a lyric, use "[?]"
-Always use apostrophes when writing contractions
-Use typewriter apostrophes/quotation marks
-Pluralizing letters and acronyms/initialisms
-Transcribe every ad-lib
-Reversed/Backwards lyrics
-Lyrics should follow the song's streaming version
-Use song part headers above different song parts
-Type out all lyrics, even when a section is repeated
-Break transcriptions up into individual lines
-Include a header if the song is recorded in a language
-other than English
-Sound effects should be written within asterisks
-Censored words should be written as a series of asterisks
-Instrumental songs can be added to Genius using the "
-Most users can directly edit lyrics
-More on editing lyrics
-How to propose lyric edits
-How to moderate proposed lyric edits
-practices for handling those corrections in their respective
-setting:
- —> Upvote
-and archive if right, archive if wrong
- —> Upvote and archive
-if right, archive if wrong
- —> Accept + delete if right, reject if
-Adding Unreleased Music to Genius
-Unreleased Songs (Snippets & Live Performance Premieres)
-Unreleased song lyrics should ONLY be added to Genius if
-one of the following conditions applies:
-In either case, citing your source is crucial — immediately
-after creating the song page, add Q&A with the following
-When/where the song was first revealed
-If applicable, link to the video/audio (Only if the media is
-found on social media, SoundCloud, or YouTube — DO
-NOT link to leak sites)
-"When and where was this song first previewed?"
-"This snippet was originally posted by Lil Yachty to his
-Instagram story on March 2nd, 2018."
-"When and where was this song first performed?"
-"This song was originally performed live by The Weeknd
-in Sao Paulo, Brazil on September 7, 2024."
-Please do not post lyrics for songs that leak pre-release,
-fan-made mashups, songs that go against our community
-policy, or songs that do not exist. Additionally, please do
-not create song or album pages to catalog unreleased
-music by a specific artist. Pages that do not adhere to our
-guidelines may be removed. Repeated offenses may result
-in an account ban at the discretion of Genius staff.
-Adding Unreleased Albums to Genius
-If an artist announces that they're working on a project, but
-the title hasn't been announced, you can use the artist's
-initials followed by the number that corresponds with how
-many albums they have in their discography. For example, if
-Drake is set to release his 5th studio album, it would be
-titled D5 until the official title is announced.
-If an artist announces an album's title, it can be added to
-Genius as normal.
-Adding Tracks to an Unreleased Album
-In the comment section below an annotation
-As a question in the Q+A section
-A snippet/full song has been teased by the artist
-The artist performs the song in a live/livestream setting
-If an unreleased album's tracklist hasn't been officially
-revealed, only add the following tracks to it:
-Songs that have officially been confirmed to appear on
-the project
-Recent singles that were not a part of a previous album
-Recent snippets or confirmed titles
-Track numbers —> Make sure to leave track numbers blank
-until the tracklist has been officially announced — adding
-track numbers gives the page a heightened sense of
-Album bio —> The bio section should include sources as to
-when and where the title and artwork (if applicable) were
-announced. If the album's tracklist is still speculative, add
-the following in bold to the top of the album bio:
-This tracklist is unconfirmed. It is compiled of recent singles,
-snippets, and song titles sourced from streaming services,
-PRO's, and social media. It is purely speculative and has not
-been confirmed by the artist. We will update this tracklist as
-more information comes to light.
-Songs with AI-Generated Vocals
-Songs that include AI-generated vocals may be added to
-the site when they fit at least one of the following criteria:
-The song has been released by an established recording
-artist, is not fan-made, and is not by an AI, mashup, or
-cover artist (e.g. "Taylor Made Freestyle" by Drake)
-The song has been officially released and is distributed
-on streaming services (e.g. "U My Everything" by Sexyy
-Red & Drake)
-The song has been released by the artist whose voice has
-been synthesized (e.g. "SKY CITY" by ¥$)
-The artist (or estate of) whose voice has been
-synthesized has given consent for their voice to be used
-artist and the AI-generated vocals are not meant to
-sound like anyone in particular (e.g. "BBL DRIZZY BPM
-150.mp3" by Metro Boomin)
-The song has been officially released by a virtual or AI
-group or artist and is distributed on streaming services
-(e.g. "Jack Park Canny Dope Man" by Travisbott)
-To learn how to label AI in song pages, see "Including Artist
-Names" in the "Use section headers above different song
-Please do not copy and paste lyrics to Genius from any lyric
-website. Doing so is essentially plagiarism and will result in
-a warning or strike on your account.
-The only time it is permissible to use an existing set of lyrics
-in your transcription is if the artist or their team releases
-lyrics. These official lyrics can be found in numerous places:
-some common examples are on Bandcamp, the song's
-YouTube/SoundCloud bio, press releases, and in the liner
-notes included in a physical release.
-Official lyric sheets often contain errors though — most
-often small formatting mistakes, but in some cases,
-egregious comprehension mistakes that include inaccurate
-words altogether. When adding official lyrics, make sure to
-update them to adhere to Genius' core standards:
-Make sure all lyrics are included, including repeated
-Make sure lyrics are accurate — any inaccuracies should
-Make sure lyrics are formatted well — update all
-formatting to adhere to Genius' standards
-Want to Dive Deeper?
-But wait, there's more! Since you know the basics and have
-now become hooked on transcribing, here's how you can
-take your transcription game to the next level:
-Transcribing from and updating our release calendars are a
-great way to help out! Whenever you transcribe a song
-found on the release calendar, you can either edit or leave a
-comment on the annotation, indicating that the song is up.
-Join the @transcribers forum!
-Subscribing to the @transcribers forum is a major key to
-becoming a top notch transcriber. Here, you'll get updates,
-new transcription requests, and general conversation
-around transcription topics. If subscribed, you'll also get
-notifications when someone around the site needs your
-help.
-Transcribing high traffic pages
-We've all been here before — everybody wants to transcribe
-the biggest song releases. When everybody tries to
-transcribe at the same time, it only makes the process more
-strenuous and time-consuming. There is currently no way to
-entirely prevent other users from attempting to transcribe
-while you are, but here are some tips:
-How to make shell pages
-How to transcribe high traffic songs
-High traffic song etiquette
-What is a shell page?
-Non-Anticipated Releases/Already Released Songs
-Genius Annotation
-3 contributors
-A duplicate page is exactly what it sounds like—a duplicate
-of a page that’s already on Genius. Most of the time, these
-pages are accidentally made when there are title/primary
-artist discrepancies.
-Since Genius prides itself in maintaining an accurate and
-organized lyric catalog, it’s important to make sure all
-duplicate pages are managed accordingly.
-If you come across a duplicate page you can report it here.
-+25
-Managing Duplicate Pages
-Awarding Transcription IQ
-Anyone in the @transcribers forum can answer questions
-about the transcription experience on Genius. If you have
-any additional questions, feel free to hit up @streetlights!
-Highly Anticipated Releases
-What is a duplicate page?
-How can I determine which page is considered a
-"duplicate"?
-I know what the duplicate page is — now what?
-How does transcription IQ get awarded?
-What songs should be manually awarded IQ?
-This guide explains all the details relating to adding
-songs to Genius, including a step-by-step guide,
-formatting conventions, and more.
-It’s intended as a manual for new users, and a
-reference tool for transcribers looking to better
-understand all aspects of transcription on Genius.
-Find answers to frequently asked questions about
-the song and explore its deeper meaning
-How should I signify that a chorus has been
-repeated?
-Genius Answer
-Suggest an improvement to earn IQ
-Whenever lyrics are repeated they should be
-typed out in their entirety. Read more here.
-How do I add a song with 'Missing Lyrics' or
-'Unreleased' to the site?
-To add a shell page you would follow the
-directions here and here.
-How should we handle discrepancies between
-official lyrics and recording?
-Oftentimes, lyrics are written, then recorded
-slightly differently. It’s best to initially go off of
-the official lyric booklet, then revise based on
-the recording.
-How do you lay out lyrics side by side when
-they are in unison?
-How do I separate two parts of the same song?
-Like that on 'Bad guy'- Eminem?
-How do you transcribe lyrics when there is a
-fade-out?
-Do you put a question mark in a transcription?
-If the song is in another language, which lyrics
-do I use?
-Can I add a song that is in another language?
-Are songs on Genius auto transcribed?
-Can I request a song for someone else to
-How do I let people know a song is a cover?
-How do you say a song was sampled?
-How can I submit a song whose album is not
-registered?
-Where do I submit corrections to the song title?
-What tags should I be using for the songs I
-A group changed their name and has songs
-under 2 names should they have 2 pages?
-What do I do if I don't know what header to
-add for a certain part of a song?
-In parentheses (when typing ad-libs) should we
-start with a capital letter?
-Why do I sometimes get IQ for adding missing
-lyrics to a song, sometimes not?
-How can I delete a song off of Genius?
-How do I indicate that a song has no lyrics?
-Is there a correct/incorrect way of typing
-spoken parts?
-Can I add songs of my own to Genius?
-Should you add the headings? (for example,
-label the chorus as [Chorus])
-A single I transcribed needs an album title but
-there isn't one
-How do you type in italics ?
-How can I add a new artist?
-Can I add lyrics to a song which is written by
-me?
-Can I add a song and have someone else add
-the lyrics?
-Can you add an album?
-What about the remixes with changed beats?
-Duplicates or not?
-How can I delete a song I posted?
-How do I add a song that isn't my own if the
-artist doesn't have a page/account?
-How do I add artwork?
-How can you make the title of your song
-How do you add the Parody Of labels?
-How do you show a song has a Clean version in
-the song relationships?
-How do you submit a song that is by an artist
-that's not on Genius yet?
-How can I make a album fan made?
-How do I add a record label
-How do you make text appear both left and
-right?
-How can I add an artist that shares a name with
-multiple artists already?
-How come I'm not getting IQ for transcribing a
-new song?
-How to add the track number to songs?
-In which order do I put the artists on the
-header? Alphabetic? Appearance?
-Could I transcribe a song that has only been
-released on YouTube and is on no other
-streaming platform?
-If a song is from YouTube, even if it’s original..
-can you add lyrics on here?
-how to create an album page?
-how to add a translate lyrics for a song ?
-What should I do if I need to close the tab but
-the lyrics are incomplete?
-How to I mark a lyric as having multiple
-How do I claim my artist account if i created it
-with another account?
-How do I add missing songs to an existing
-how do i add extra infomation on a spanish
-What happens if I try to add an em dash and I
-get an error stating there is an "uneven amount
-of parentheses or square brackets" even though
-they are perfectly formatted?
-Can I select another music library rather than
-Apple Music?
-What if you add songs that haven’t been
-officially released, such as a song for a fanmade
-What are the grammar rules on the use of ":"
-Should you transcribe vocal chops?
-Can I add a book that I like?
-Who wrote “How to Add Songs to Genius” by
-Genius?
-1. About Genius
-2. How Genius Works
-3. Community Policy &
-Moderation Guidelines
-4. Genius FAQ
-5. How to Get Verified on
-6. How to Add Songs to
-7. How to Add Song Credits
-to Genius
-8. Genius Writing Resources
-9. Formatting & Markdown
-10. How to Annotate & Edit
-11. Cover Art Guide: Adding &
-Annotating
-12. How to Edit Metadata on
-13. How to Write Q&A on
-14. How to Embed Text &
-Annotations
-15. What is a Contributor?
-16. What is a Transcriber?
-17. What is an Editor?
-18. What is a Mediator?
-19. What is a Moderator?
-20. Users’ Languages
-21. How to Translate Songs
-22. How to Annotate &
-Transcribe Musicals on
-23. Lit Genius Guidelines
-24. Genius International
-Communities
-25. Song Sections & Headers
-26. Song Headers in
-Different Languages
-27. Keyboard Shortcuts
-28. Thread-Making
-Guidelines
-29. Tags - Music (Genres)
-30. How to Annotate
-31. How to Write Bios
-32. How to Create & Format
-a Cleanup Page
-34. Transcription Techniques
-for Accurate Lyrics
-37. How to Edit (Editor
-38. Transcriber Guide
-Verified Account FAQ
-Credits
-How to Add Songs to Genius
-曲をGeniusに追加する方
-法 (How to Add Songs to
-Genius) by Genius Japan,
-Genius - األغاني إضافة كيفية
-چينيوس على
-by Genius Arabia, Genius
-में गीत कैसे डालें (How To
-Add Songs On Genius)
-by Genius India, Cara
-Menambah Lagu Ke
-Dalam Genius
-b G
-i
-M l
-J k
-Sign Up And Drop
-Knowledge 🤓
-Genius is the ultimate source of music
-knowledge, created by scholars like you who
-share facts and insight about the songs and
-Genius is the world’s biggest
-collection of song lyrics and
-musical knowledge
-Do Not Sell My Personal
-Information
-VERIFIED ARTISTS
-HOT SONGS:
-annotation_28653906
-___
+    Create &
+    Format
+    Cleanup
+    Page
+33. Transcri
+    ption
+    Techniq
+    ues for
+    Accurat
+    e Lyrics
+34. How to
+    (Editor
+    Guide)
+35. Transcri
+    ber
+    Account FAQ
+    Cre
+    dits
+    Writer
+    How to Add
+    曲を
+    Geniusに
+    追加する
+    方法 (How
+    to Add
+    Comments
+    Add a comment
+    Genius is the world’s
+    iggest collection of
+    ong lyrics and musical
+    nowledge
+    About Genius
+    Contributor Guidelines
+    Press
+    Shop
+    Advertise
+    Privacy Policy
+    Do Not Sell My
+    Personal Information
+    Licensing
+    Jobs
+    Developers
+    Copyright Policy
+    Contact Us
+    Security
+    Sign In
+    © 2026 ML Genius Holdings, LLC
+    Terms of Use
+    And Drop
+    Knowledg
+    e 🤓
+    Genius is the ultimate
+    source of music
+    knowledge, created by
+    scholars like you who
+    share facts and insight
+    about the songs and
+    artists they love.
+    RIFIED ARTISTS
+    •
+    ALL ARTISTS:
+    A B C D E F G H I J K L M N O P Q R S T U V W X Y Z #
+    T SONGS:
+    CREEP
+    9 TO 5
+    FALLEN ANGEL
+    RISK IT ALL
+    HOOTIE FRUTTI
+    VIEW ALL
+    annotation_11011011
+    This guide explains all the details relating to adding songs to
+    Genius, including a step-by-step guide, formatting conventions,
+    Verified How to Add Songs to Genius Lyrics
+    The Genius community prides itself on having accurate
+    lyrics for new releases first. We're also constantly trying to
+    grow our database by adding old songs and more obscure
+    tracks.
+    Anyone can add a new song by clicking the "ADD A SONG"
+    link at the top of the page. —>
+    Genius prides itself in hosting accurate lyrics — this means
+    lyrics should look clean and concise and the text itself
+    should be as correct as possible.
+    Grammar (Spelling, Capitalization, etc.)
+    Double-check all spelling
+    Incomprehensible Lyrics
+    More on adding lyrics
+    Users should make an
+    effort to transcribe the full song
+    Use standardized spellings
+    How to spell numbers
+    Question / Exclamation Marks
+    Hyphens and Em Dashes
+    Symbols and Special Characters
+    Only use conventional capitalization
+    Transcribe all lyrics as the artist says them
+    How to Add Songs to G
+    3 Viewers
+    1M Views
+    Living Tracklist
+    Get Verified
+    Promote Your Music
+    How To Format Lyrics
+    In addition to lyric accuracy, maintaining easy-to-read and
+    well-organized lyric formatting is a crucial part of Genius.
+    Translations and Romanizations
+    Additional song resources such as translations and
+    romanizations should be added to Genius on a page
+    separate from the primary lyric page:
+    by clicking
+    the "Edit Lyrics" button above the lyrics and below the
+    page's header ->
+    Proposing Lyric Edits: This feature allows users and non-
+    users to propose edits to lyrics that they normally wouldn't
+    have access to edit on their own. Once a proposal has been
+    submitted, it must be reviewed before being integrated into
+    More on proposed lyric edits
+    Integrating Lyric Corrections
+    While our Proposed Lyric Edits feature should catch most
+    lyric corrections, sometimes users leave their suggestions in
+    other areas of song pages. For editors, here are the best
+    If you don't understand a lyric, use "[?]"
+    Always use apostrophes when writing contractions
+    Use typewriter apostrophes/quotation marks
+    Pluralizing letters and acronyms/initialisms
+    Transcribe every ad-lib
+    Reversed/Backwards lyrics
+    Lyrics should follow the song's streaming version
+    Use song part headers above different song parts
+    Type out all lyrics, even when a section is repeated
+    Break transcriptions up into individual lines
+    Include a header if the song is recorded in a language
+    other than English
+    Sound effects should be written within asterisks
+    Censored words should be written as a series of asterisks
+    Instrumental songs can be added to Genius using the "
+    Most users can directly edit lyrics
+    More on editing lyrics
+    How to propose lyric edits
+    How to moderate proposed lyric edits
+    practices for handling those corrections in their respective
+    setting:
+    —> Upvote
+    and archive if right, archive if wrong
+    —> Upvote and archive
+    if right, archive if wrong
+    —> Accept + delete if right, reject if
+    Adding Unreleased Music to Genius
+    Unreleased Songs (Snippets & Live Performance Premieres)
+    Unreleased song lyrics should ONLY be added to Genius if
+    one of the following conditions applies:
+    In either case, citing your source is crucial — immediately
+    after creating the song page, add Q&A with the following
+    When/where the song was first revealed
+    If applicable, link to the video/audio (Only if the media is
+    found on social media, SoundCloud, or YouTube — DO
+    NOT link to leak sites)
+    "When and where was this song first previewed?"
+    "This snippet was originally posted by Lil Yachty to his
+    Instagram story on March 2nd, 2018."
+    "When and where was this song first performed?"
+    "This song was originally performed live by The Weeknd
+    in Sao Paulo, Brazil on September 7, 2024."
+    Please do not post lyrics for songs that leak pre-release,
+    fan-made mashups, songs that go against our community
+    policy, or songs that do not exist. Additionally, please do
+    not create song or album pages to catalog unreleased
+    music by a specific artist. Pages that do not adhere to our
+    guidelines may be removed. Repeated offenses may result
+    in an account ban at the discretion of Genius staff.
+    Adding Unreleased Albums to Genius
+    If an artist announces that they're working on a project, but
+    the title hasn't been announced, you can use the artist's
+    initials followed by the number that corresponds with how
+    many albums they have in their discography. For example, if
+    Drake is set to release his 5th studio album, it would be
+    titled D5 until the official title is announced.
+    If an artist announces an album's title, it can be added to
+    Genius as normal.
+    Adding Tracks to an Unreleased Album
+    In the comment section below an annotation
+    As a question in the Q+A section
+    A snippet/full song has been teased by the artist
+    The artist performs the song in a live/livestream setting
+    If an unreleased album's tracklist hasn't been officially
+    revealed, only add the following tracks to it:
+    Songs that have officially been confirmed to appear on
+    the project
+    Recent singles that were not a part of a previous album
+    Recent snippets or confirmed titles
+    Track numbers —> Make sure to leave track numbers blank
+    until the tracklist has been officially announced — adding
+    track numbers gives the page a heightened sense of
+    Album bio —> The bio section should include sources as to
+    when and where the title and artwork (if applicable) were
+    announced. If the album's tracklist is still speculative, add
+    the following in bold to the top of the album bio:
+    This tracklist is unconfirmed. It is compiled of recent singles,
+    snippets, and song titles sourced from streaming services,
+    PRO's, and social media. It is purely speculative and has not
+    been confirmed by the artist. We will update this tracklist as
+    more information comes to light.
+    Songs with AI-Generated Vocals
+    Songs that include AI-generated vocals may be added to
+    the site when they fit at least one of the following criteria:
+    The song has been released by an established recording
+    artist, is not fan-made, and is not by an AI, mashup, or
+    cover artist (e.g. "Taylor Made Freestyle" by Drake)
+    The song has been officially released and is distributed
+    on streaming services (e.g. "U My Everything" by Sexyy
+    Red & Drake)
+    The song has been released by the artist whose voice has
+    been synthesized (e.g. "SKY CITY" by ¥$)
+    The artist (or estate of) whose voice has been
+    synthesized has given consent for their voice to be used
+    artist and the AI-generated vocals are not meant to
+    sound like anyone in particular (e.g. "BBL DRIZZY BPM
+    150.mp3" by Metro Boomin)
+    The song has been officially released by a virtual or AI
+    group or artist and is distributed on streaming services
+    (e.g. "Jack Park Canny Dope Man" by Travisbott)
+    To learn how to label AI in song pages, see "Including Artist
+    Names" in the "Use section headers above different song
+    Please do not copy and paste lyrics to Genius from any lyric
+    website. Doing so is essentially plagiarism and will result in
+    a warning or strike on your account.
+    The only time it is permissible to use an existing set of lyrics
+    in your transcription is if the artist or their team releases
+    lyrics. These official lyrics can be found in numerous places:
+    some common examples are on Bandcamp, the song's
+    YouTube/SoundCloud bio, press releases, and in the liner
+    notes included in a physical release.
+    Official lyric sheets often contain errors though — most
+    often small formatting mistakes, but in some cases,
+    egregious comprehension mistakes that include inaccurate
+    words altogether. When adding official lyrics, make sure to
+    update them to adhere to Genius' core standards:
+    Make sure all lyrics are included, including repeated
+    Make sure lyrics are accurate — any inaccuracies should
+    Make sure lyrics are formatted well — update all
+    formatting to adhere to Genius' standards
+    Want to Dive Deeper?
+    But wait, there's more! Since you know the basics and have
+    now become hooked on transcribing, here's how you can
+    take your transcription game to the next level:
+    Transcribing from and updating our release calendars are a
+    great way to help out! Whenever you transcribe a song
+    found on the release calendar, you can either edit or leave a
+    comment on the annotation, indicating that the song is up.
+    Join the @transcribers forum!
+    Subscribing to the @transcribers forum is a major key to
+    becoming a top notch transcriber. Here, you'll get updates,
+    new transcription requests, and general conversation
+    around transcription topics. If subscribed, you'll also get
+    notifications when someone around the site needs your
+    help.
+    Transcribing high traffic pages
+    We've all been here before — everybody wants to transcribe
+    the biggest song releases. When everybody tries to
+    transcribe at the same time, it only makes the process more
+    strenuous and time-consuming. There is currently no way to
+    entirely prevent other users from attempting to transcribe
+    while you are, but here are some tips:
+    How to make shell pages
+    How to transcribe high traffic songs
+    High traffic song etiquette
+    What is a shell page?
+    Non-Anticipated Releases/Already Released Songs
+    Genius Annotation
+    3 contributors
+    A duplicate page is exactly what it sounds like—a duplicate
+    of a page that’s already on Genius. Most of the time, these
+    pages are accidentally made when there are title/primary
+    artist discrepancies.
+    Since Genius prides itself in maintaining an accurate and
+    organized lyric catalog, it’s important to make sure all
+    duplicate pages are managed accordingly.
+    If you come across a duplicate page you can report it here.
+    +25
+    Managing Duplicate Pages
+    Awarding Transcription IQ
+    Anyone in the @transcribers forum can answer questions
+    about the transcription experience on Genius. If you have
+    any additional questions, feel free to hit up @streetlights!
+    Highly Anticipated Releases
+    What is a duplicate page?
+    How can I determine which page is considered a
+    "duplicate"?
+    I know what the duplicate page is — now what?
+    How does transcription IQ get awarded?
+    What songs should be manually awarded IQ?
+    This guide explains all the details relating to adding
+    songs to Genius, including a step-by-step guide,
+    formatting conventions, and more.
+    It’s intended as a manual for new users, and a
+    reference tool for transcribers looking to better
+    understand all aspects of transcription on Genius.
+    Find answers to frequently asked questions about
+    the song and explore its deeper meaning
+    How should I signify that a chorus has been
+    repeated?
+    Genius Answer
+    Suggest an improvement to earn IQ
+    Whenever lyrics are repeated they should be
+    typed out in their entirety. Read more here.
+    How do I add a song with 'Missing Lyrics' or
+    'Unreleased' to the site?
+    To add a shell page you would follow the
+    directions here and here.
+    How should we handle discrepancies between
+    official lyrics and recording?
+    Oftentimes, lyrics are written, then recorded
+    slightly differently. It’s best to initially go off of
+    the official lyric booklet, then revise based on
+    the recording.
+    How do you lay out lyrics side by side when
+    they are in unison?
+    How do I separate two parts of the same song?
+    Like that on 'Bad guy'- Eminem?
+    How do you transcribe lyrics when there is a
+    fade-out?
+    Do you put a question mark in a transcription?
+    If the song is in another language, which lyrics
+    do I use?
+    Can I add a song that is in another language?
+    Are songs on Genius auto transcribed?
+    Can I request a song for someone else to
+    How do I let people know a song is a cover?
+    How do you say a song was sampled?
+    How can I submit a song whose album is not
+    registered?
+    Where do I submit corrections to the song title?
+    What tags should I be using for the songs I
+    A group changed their name and has songs
+    under 2 names should they have 2 pages?
+    What do I do if I don't know what header to
+    add for a certain part of a song?
+    In parentheses (when typing ad-libs) should we
+    start with a capital letter?
+    Why do I sometimes get IQ for adding missing
+    lyrics to a song, sometimes not?
+    How can I delete a song off of Genius?
+    How do I indicate that a song has no lyrics?
+    Is there a correct/incorrect way of typing
+    spoken parts?
+    Can I add songs of my own to Genius?
+    Should you add the headings? (for example,
+    label the chorus as [Chorus])
+    A single I transcribed needs an album title but
+    there isn't one
+    How do you type in italics ?
+    How can I add a new artist?
+    Can I add lyrics to a song which is written by
+    me?
+    Can I add a song and have someone else add
+    the lyrics?
+    Can you add an album?
+    What about the remixes with changed beats?
+    Duplicates or not?
+    How can I delete a song I posted?
+    How do I add a song that isn't my own if the
+    artist doesn't have a page/account?
+    How do I add artwork?
+    How can you make the title of your song
+    How do you add the Parody Of labels?
+    How do you show a song has a Clean version in
+    the song relationships?
+    How do you submit a song that is by an artist
+    that's not on Genius yet?
+    How can I make a album fan made?
+    How do I add a record label
+    How do you make text appear both left and
+    right?
+    How can I add an artist that shares a name with
+    multiple artists already?
+    How come I'm not getting IQ for transcribing a
+    new song?
+    How to add the track number to songs?
+    In which order do I put the artists on the
+    header? Alphabetic? Appearance?
+    Could I transcribe a song that has only been
+    released on YouTube and is on no other
+    streaming platform?
+    If a song is from YouTube, even if it’s original..
+    can you add lyrics on here?
+    how to create an album page?
+    how to add a translate lyrics for a song ?
+    What should I do if I need to close the tab but
+    the lyrics are incomplete?
+    How to I mark a lyric as having multiple
+    How do I claim my artist account if i created it
+    with another account?
+    How do I add missing songs to an existing
+    how do i add extra infomation on a spanish
+    What happens if I try to add an em dash and I
+    get an error stating there is an "uneven amount
+    of parentheses or square brackets" even though
+    they are perfectly formatted?
+    Can I select another music library rather than
+    Apple Music?
+    What if you add songs that haven’t been
+    officially released, such as a song for a fanmade
+    What are the grammar rules on the use of ":"
+    Should you transcribe vocal chops?
+    Can I add a book that I like?
+    Who wrote “How to Add Songs to Genius” by
+    Genius?
+36. About Genius
+37. How Genius Works
+38. Community Policy &
+    Moderation Guidelines
+39. Genius FAQ
+40. How to Get Verified on
+41. How to Add Songs to
+42. How to Add Song Credits
+    to Genius
+43. Genius Writing Resources
+44. Formatting & Markdown
+45. How to Annotate & Edit
+46. Cover Art Guide: Adding &
+    Annotating
+47. How to Edit Metadata on
+48. How to Write Q&A on
+49. How to Embed Text &
+    Annotations
+50. What is a Contributor?
+51. What is a Transcriber?
+52. What is an Editor?
+53. What is a Mediator?
+54. What is a Moderator?
+55. Users’ Languages
+56. How to Translate Songs
+57. How to Annotate &
+    Transcribe Musicals on
+58. Lit Genius Guidelines
+59. Genius International
+    Communities
+60. Song Sections & Headers
+61. Song Headers in
+    Different Languages
+62. Keyboard Shortcuts
+63. Thread-Making
+    Guidelines
+64. Tags - Music (Genres)
+65. How to Annotate
+66. How to Write Bios
+67. How to Create & Format
+    a Cleanup Page
+68. Transcription Techniques
+    for Accurate Lyrics
+69. How to Edit (Editor
+70. Transcriber Guide
+    Verified Account FAQ
+    Credits
+    How to Add Songs to Genius
+    曲をGeniusに追加する方
+    法 (How to Add Songs to
+    Genius) by Genius Japan,
+    Genius - األغاني إضافة كيفية
+    چينيوس على
+    by Genius Arabia, Genius
+    में गीत कैसे डालें (How To
+    Add Songs On Genius)
+    by Genius India, Cara
+    Menambah Lagu Ke
+    Dalam Genius
+    b G
+    i
+    M l
+    J k
+    Sign Up And Drop
+    Knowledge 🤓
+    Genius is the ultimate source of music
+    knowledge, created by scholars like you who
+    share facts and insight about the songs and
+    Genius is the world’s biggest
+    collection of song lyrics and
+    musical knowledge
+    Do Not Sell My Personal
+    Information
+    VERIFIED ARTISTS
+    HOT SONGS:
+    annotation_28653906
+
+---
+
 This guide explains all the details relating to
 adding songs to Genius, including a step-by-
 step guide, formatting conventions, and
@@ -1429,7 +1432,7 @@ Always use apostrophes when writing
 apostrophes/quotation marks
 Pluralizing letters and
 acronyms/initialisms
-Do not start a transcription if you don’t have 
+Do not start a transcription if you don’t have
 of finishing it. Abandoning transcriptions may
 strikes on your account. This is the general ru
 are a couple exceptions:
@@ -1437,7 +1440,7 @@ Note: This is in reference to sections of song
 not incomprehensible lyrics where [?] is used
 done this way will be moderated on a case-b
 for validity.
-If you are transcribing a song and some of it 
+If you are transcribing a song and some of it
 unfamiliar language, then it is fine to add “[?]
 section.
 Once you’re done, you should tag @transcrib
@@ -1460,7 +1463,7 @@ Additional song resources such as
 translations and romanizations should
 be added to Genius on a page separate
 from the primary lyric page:
- by clicking the "Edit Lyrics" button
+by clicking the "Edit Lyrics" button
 above the lyrics and below the page's
 Proposing Lyric Edits: This feature
 allows users and non-users to propose
@@ -1490,10 +1493,10 @@ sometimes users leave their suggestions
 in other areas of song pages. For
 editors, here are the best practices for
 handling those corrections in their
- —> Upvote and archive if
+—> Upvote and archive if
 right, archive if wrong
 Upvote and archive if right, archive if
- —> Accept + delete
+—> Accept + delete
 if right, reject if wrong
 Unreleased Songs (Snippets & Live
 Performance Premieres)
@@ -2588,7 +2591,7 @@ Dr…
 (Cle…
 annotation_33622377
 Adding Live Performances
-are heard in the song’s performance; do not 
+are heard in the song’s performance; do not
 assumptions about the song’s structure and a
 (e.g., extra choruses) if the song is not perfor
 entirety.
@@ -2626,23 +2629,23 @@ If one of the two pages has numerous high-q
 annotations, the other page would be consid
 “duplicate,” regardless of Song ID/Transcribe
 Views
-If the song has been out for a while and only 
+If the song has been out for a while and only
 pages has a substantial amount of views, the
 views would be considered the “duplicate,” r
 Song ID/Transcriber.
 If this conflicts with annotation quality, it’s us
-side with views. However, it’s always best to 
+side with views. However, it’s always best to
 creators to transfer their annotations over pri
 action. This will only happen in extreme circu
 +44
 annotation_9303373
-Missing lyrics on a song page should always 
+Missing lyrics on a song page should always
 by a question mark within brackets: [?]
 For example:
 Note that it’s highly important to only use qu
-and brackets for missing lyrics—parentheses 
+and brackets for missing lyrics—parentheses
 avoided since they’re already used on Geniu
-If you’re looking to help resolve any missing 
+If you’re looking to help resolve any missing
 spreadsheet that lists all transcriptions that c
 I only call you when it’s [?] past five
 +192
@@ -2698,7 +2701,7 @@ Example: Lady Gaga & Bradley Cooper – Sha
 Exclamation marks should be used to show e
 Example: Eminem – Venom
 You should not use double exclamation mark
-unnecessary. If you see multiple exclamation 
+unnecessary. If you see multiple exclamation
 remove all but one.
 In brand names, do not add question / exclam
 included after the name:
@@ -2800,7 +2803,7 @@ a song” autocomplete prompt
 Click the “Create new” result (should be tfi
 Leave the “Unreleased” checkmark unche
 annotation_9290803
-When writing a contraction, always place an 
+When writing a contraction, always place an
 the side of the word that letters were remove
 ballin', not ballin (contraction of “balling”)
 ‘til, not til (contraction of “until”)
@@ -2812,11 +2815,11 @@ y'all, not yall or ya’ll (contraction of “you a
 annotation_9250687
 Song part headers are used to distinguish dif
 within a song.
-Quiet when I’m coming home and I’m on 
+Quiet when I’m coming home and I’m on
 I could lie, say I like it like that, like it like t
 The most commonly-used headers are:
 Additional song parts, along with explanatio
-purpose, can be found here. Note that song 
+purpose, can be found here. Note that song
 should be written in the same language as th
 text. See this guide for common song parts i
 languages.
@@ -2833,7 +2836,7 @@ Do not include artist identifiers in every secti
 when:
 If a song is by a band with one lead singer or
 and the intro, outro, and/or interludes are sa
-identifiers may be included in every section, 
+identifiers may be included in every section,
 required.
 Intro
 Verse
@@ -2846,7 +2849,7 @@ A song is by a solo artist and one or more
 attributed to other artists
 A song is by a band or group with multip
 A song is by a band or group with one le
-A song is by a solo artist and every song 
+A song is by a solo artist and every song
 solo artist
 [Verse 1: Q-Tip]
 Can I kick it? To all the people who can Q
@@ -2857,7 +2860,7 @@ Individual artists should be separated by tex
 commas and an ampersand.
 If two vocalists perform the same lines in uni
 vocalists with text formatting and ampersand
-commas to separate vocalists and groups of 
+commas to separate vocalists and groups of
 does
 Before this, did you really know what live
 First Artist (Most lines or first chronologic
@@ -2899,7 +2902,7 @@ headers.
 If a song is performed by fictional characters
 identifiers should match the names of the pe
 credited on the album. Depending on the rel
-may be given to fictional characters in some 
+may be given to fictional characters in some
 the artists portraying those characters in oth
 is from a musical, a musical-style film or telev
 transcribed in musical format, the transcriber
@@ -2921,13 +2924,13 @@ If an artist uses AI to generate vocals that
 their own, that artist's name is used as th
 identifier
 If a song contains AI-generated vocals th
-meant to sound like anyone in particular, 
+meant to sound like anyone in particular,
 identifier is "AI" or may be omitted if the A
 vocals are being used as samples.
 If the song is by or features an AI or virtua
 name of the AI or virtual artist is used as t
 identifier.
-Note re: producer tags, sampled vocals, and 
+Note re: producer tags, sampled vocals, and
 dialogue
 You may include the name of the vocalist for
 featured producer tags and sampled vocals i
@@ -2968,7 +2971,7 @@ falls on the hour, use a whole number, if minu
 specified, include a colon.
 “I got five on it”
 “I think fifty-six nights crazy”
-“Two plus two is four / Minus one, that’s 
+“Two plus two is four / Minus one, that’s
 maths”
 “To all the killers and a hundred dollar bil
 “One hundred keys, one hundred please”
@@ -2988,7 +2991,7 @@ Numerical slang for police (5-0, 12)
 Numbers that are not multiples of 100 fo
 (24K, 20K, 50K)
 Times (Specified below)
-When abbreviating ante meridiem and post 
+When abbreviating ante meridiem and post
 “a.m.” and “p.m.”
 5:30 | Five thirty | Five-thirty
 8 a.m. | 8:00 a.m. | 8 am | 8 AM | 8 A.M.
@@ -3006,26 +3009,26 @@ ARJN, KDS, FIFTY4 & SHREYA GHOSHAL - KALYANI (REMIX) (ROMANIZED)
 As Genius aspires to be an interactive guide to human culture, we host an array of slang and colloquialisms—some of which don't have a definitive source or spelling. As this is the case, below are some Genius-preferred spellings:
 
 - I'ma | <strike>I'mma</strike> | <strike>Ima</strike> | <strike>Imma</strike>
-- ​'cause | <strike>cause</strike> | <strike>cos</strike> | <strike>cuz</strike> 
-**Note:** "Cuz" is okay to use when referring to a person, shortened version of "cousin"
+- ​'cause | <strike>cause</strike> | <strike>cos</strike> | <strike>cuz</strike>
+  **Note:** "Cuz" is okay to use when referring to a person, shortened version of "cousin"
 - okay | <strike>ok</strike> | <strike>O.K.<strike>
 - ​'til | till | <strike>til</strike>
-**Note:** On site, the Americanized spelling is 'til, and the British English spelling is till.
-**Clarification**: The "till" standardization is only for the shortened form of the word "until," not other meanings of "till" (such as tilling a garden).
-- tryna | <strike>trynna</strike> 
+  **Note:** On site, the Americanized spelling is 'til, and the British English spelling is till.
+  **Clarification**: The "till" standardization is only for the shortened form of the word "until," not other meanings of "till" (such as tilling a garden).
+- tryna | <strike>trynna</strike>
 - ayy | <strike>aye</strike> | <strike>ay</strike>
 - ho | <strike>hoe</strike>
-**Note:** "Hoe" is okay to use when referring to the garden tool
+  **Note:** "Hoe" is okay to use when referring to the garden tool
 - though | <strike>tho</strike>
 - ya | yah
-**Note:** Neither of these are wrong, but they aren't the same thing—"Ya" should be used when in place of "You" or "Your," and "Yah" should be used when in place of "Yeah/Yes"
+  **Note:** Neither of these are wrong, but they aren't the same thing—"Ya" should be used when in place of "You" or "Your," and "Yah" should be used when in place of "Yeah/Yes"
 - y'all | <strike>ya'll</strike>
 - skrrt | <strike>skrt</strike>
 - Perc' | <strike>Perk</strike> and Perky | <strike>Percy</strike>
-**Note:** These are common names used for the drug Percocet, "perk" is okay to use in other contexts
+  **Note:** These are common names used for the drug Percocet, "perk" is okay to use in other contexts
 - bougie | <strike>boujee</strike> | <strike>boujie</strike>
 - shawty | shorty
-**Note:** These are both fine to use — just spell as the artist pronounces the word
+  **Note:** These are both fine to use — just spell as the artist pronounces the word
 - lil' | <strike>lil</strike> | <strike>li'l</strike>
 - woah | <strike>whoa</strike>
 - dog | <strike>dawg</strike>
@@ -3035,13 +3038,13 @@ As Genius aspires to be an interactive guide to human culture, we host an array 
 - cliché | <strike>cliche</strike>
 - alright | all right
 - a.k.a. | a.k.a.s | <strike>AKA</strike> | <strike>AKAs</strike> | <strike>A.K.A</strike> | <strike>A.K.A.s</strike>
-**Note:** If a line begins with "a.k.a.," use "A.K.A."
+  **Note:** If a line begins with "a.k.a.," use "A.K.A."
 - GOAT | GOATs | <strike>G.O.A.T.</strike> | <strike>G.O.A.T.s</strike>
 - VIP | VIPs | <strike>V.I.P.</strike> | <strike>V.I.P.s</strike>
 - ASAP | <strike>A.S.A.P.</strike>
-**Note:** Use "A$AP" when referring to A$AP Rocky, A$AP Mob, etc.
+  **Note:** Use "A$AP" when referring to A$AP Rocky, A$AP Mob, etc.
 - cream | <strike>C.R.E.A.M.</strike> | <strike>CREAM</strike>
-**Note:** Use "cream" when referring to money, use ["C.R.E.A.M."](https://genius.com/Wu-tang-clan-cream-lyrics) when referring to the song by Wu-Tang Clan.
+  **Note:** Use "cream" when referring to money, use ["C.R.E.A.M."](https://genius.com/Wu-tang-clan-cream-lyrics) when referring to the song by Wu-Tang Clan.
 - HAM | <strike>H.A.M.</strike>
 
 ---
