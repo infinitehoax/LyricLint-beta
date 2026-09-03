@@ -234,4 +234,33 @@ describe('the assistant panel', () => {
 			})
 		).not.toBeNull();
 	});
+
+	test('renders plain content for a completed message without a structured answer object', () => {
+		const messages: AssistantMessageRecord[] = [
+			{
+				id: 'msg-1',
+				chatId: 'chat-1',
+				role: 'user',
+				createdAt: '2026-08-02T10:00:00.000Z',
+				content: 'How should I format a chorus?',
+				status: 'complete'
+			},
+			{
+				id: 'msg-2',
+				chatId: 'chat-1',
+				role: 'assistant',
+				createdAt: '2026-08-02T10:00:01.000Z',
+				content: 'Use [Chorus] or [Chorus: Performer] for section headers.',
+				status: 'complete'
+			}
+		];
+		const { assistant } = panelAssistant(undefined, messages);
+		const { container } = render(AssistantPanel, { assistant });
+
+		expect(
+			within(container).getByText('Use [Chorus] or [Chorus: Performer] for section headers.')
+		).not.toBeNull();
+		expect(within(container).queryByText('This question did not get an answer.')).toBeNull();
+		expect(within(container).queryByRole('button', { name: 'Retry' })).toBeNull();
+	});
 });
