@@ -9,7 +9,16 @@ import AssistantPanel from './AssistantPanel.svelte';
 function panelAssistant(
 	decision?: DraftAccessDecision,
 	messages: AssistantMessageRecord[] = [],
-	toolSession?: AssistantState['toolSession']
+	toolSession?: AssistantState['toolSession'],
+	chats: AssistantState['chats'] = [
+		{
+			id: 'chat-1',
+			title: 'Chorus question',
+			createdAt: '2026-08-02T10:00:00.000Z',
+			updatedAt: '2026-08-02T10:00:00.000Z',
+			ruleSetVersion: 'test'
+		}
+	]
 ) {
 	const revokeDraftAccess = vi.fn(async () => undefined);
 	const send = vi.fn(async () => false);
@@ -21,15 +30,7 @@ function panelAssistant(
 		busy: false,
 		contextDividerIndex: undefined,
 		toolSession,
-		chats: [
-			{
-				id: 'chat-1',
-				title: 'Chorus question',
-				createdAt: '2026-08-02T10:00:00.000Z',
-				updatedAt: '2026-08-02T10:00:00.000Z',
-				ruleSetVersion: 'test'
-			}
-		],
+		chats,
 		draftToolsAvailable: true,
 		draftAccessState: decision,
 		send,
@@ -128,6 +129,33 @@ describe('the assistant panel', () => {
 		expect(container.querySelector('.assistant-chats')!.getBoundingClientRect().right).toBe(
 			popoverBox.right
 		);
+	});
+
+	test('renders conversations button and empty state when there are no saved chats', async () => {
+		const { assistant } = panelAssistant(undefined, [], undefined, []);
+		const { container } = render(AssistantPanel, { assistant });
+
+		const button = screen.getByRole('button', { name: 'Conversations' });
+		expect(button).not.toBeNull();
+
+		await fireEvent.click(button);
+		expect(container.querySelector('.assistant-chats__empty')).not.toBeNull();
+		expect(container.querySelector('.assistant-chats__empty')?.textContent).toBe(
+			'No saved conversations'
+		);
+	});
+
+	test('renders video mode popover with design system overlay styling', async () => {
+		const { assistant } = panelAssistant();
+		const { container } = render(AssistantPanel, { assistant });
+
+		const videoButton = screen.getByRole('button', { name: 'Video Mode' });
+		expect(videoButton).not.toBeNull();
+
+		await fireEvent.click(videoButton);
+		const popover = container.querySelector<HTMLElement>('.assistant-video-mode__popover');
+		expect(popover).not.toBeNull();
+		expect(container.querySelector('.assistant-video-mode__description')).not.toBeNull();
 	});
 
 	/**
