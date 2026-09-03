@@ -120,8 +120,76 @@
 	padding: var(--space-1) var(--space-3) 0;
 }
 
-/* The conversations popover: the drafts menu's shape — a quiet disclosure, one
- * line per chat, commands as glyphs on the name's own line. */
+/* The conversations and video mode popovers: the drafts menu's shape — a quiet
+ * disclosure, one line per item, commands as glyphs on the line. */
+.assistant-video-mode,
+.assistant-chats {
+	position: relative;
+}
+
+.assistant-video-mode > summary,
+.assistant-chats > summary {
+	list-style: none;
+}
+
+.assistant-video-mode > summary::-webkit-details-marker,
+.assistant-chats > summary::-webkit-details-marker {
+	display: none;
+}
+
+.assistant-video-mode__popover {
+	position: absolute;
+	z-index: var(--layer-menu);
+	top: calc(100% + var(--space-2));
+	right: 0;
+	width: min(16rem, calc(100vw - 2rem));
+	padding: var(--space-3);
+	border: var(--border-width) solid var(--color-border-strong);
+	border-radius: var(--radius-overlay);
+	background: var(--color-overlay);
+	box-shadow: var(--shadow-overlay);
+}
+
+.assistant-panel .assistant-video-mode__popover {
+	width: min(16rem, calc(100cqi - 6rem));
+}
+
+.assistant-video-mode__description {
+	margin: 0 0 var(--space-2);
+	color: var(--color-text-muted);
+	font-size: var(--font-size-xs);
+	line-height: var(--line-height-body);
+}
+
+.assistant-video-mode__form {
+	display: grid;
+	gap: var(--space-2);
+}
+
+.assistant-video-mode__input {
+	width: 100%;
+	padding: var(--space-1-5) var(--space-2);
+	border: var(--border-width) solid var(--color-border);
+	border-radius: var(--radius-control);
+	background: var(--color-surface);
+	color: var(--color-text);
+	font-family: inherit;
+	font-size: var(--font-size-xs);
+}
+
+.assistant-video-mode__input:focus {
+	outline: none;
+	border-color: var(--color-focus);
+	box-shadow: 0 0 0 var(--focus-ring-width) var(--color-focus-soft);
+}
+
+.assistant-video-mode__actions {
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	gap: var(--space-1-5);
+}
+
 .assistant-chats {
 	position: relative;
 }
@@ -182,6 +250,14 @@
 
 .assistant-chats__list > li.current .list-row__name {
 	font-weight: var(--font-weight-bold);
+}
+
+.assistant-chats__empty {
+	margin: 0;
+	padding: var(--space-3) var(--space-2);
+	color: var(--color-text-muted);
+	font-size: var(--font-size-xs);
+	text-align: center;
 }
 
 /* The transcript is one centered reading column; spacing separates the turns,
