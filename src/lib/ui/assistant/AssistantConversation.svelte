@@ -366,13 +366,17 @@
 									<LoadingMark label="Answering" />
 								</p>
 							{/if}
-						{:else if message.status === 'complete' && message.answer}
-							<AssistantAnswer
-								answer={message.answer}
-								{previews}
-								{sources}
-								{referencesFailedToLoad}
-							/>
+						{:else if message.status === 'complete'}
+							{#if message.answer}
+								<AssistantAnswer
+									answer={message.answer}
+									{previews}
+									{sources}
+									{referencesFailedToLoad}
+								/>
+							{:else if message.content}
+								<p class="assistant-turn__text">{message.content}</p>
+							{/if}
 						{:else}
 							<p class="assistant-turn__text">
 								{message.status === 'interrupted'
