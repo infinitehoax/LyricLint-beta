@@ -9,10 +9,20 @@ import AssistantPanel from './AssistantPanel.svelte';
 function panelAssistant(
 	decision?: DraftAccessDecision,
 	messages: AssistantMessageRecord[] = [],
-	toolSession?: AssistantState['toolSession']
+	toolSession?: AssistantState['toolSession'],
+	chats = [
+		{
+			id: 'chat-1',
+			title: 'Chorus question',
+			createdAt: '2026-08-02T10:00:00.000Z',
+			updatedAt: '2026-08-02T10:00:00.000Z',
+			ruleSetVersion: 'test'
+		}
+	]
 ) {
 	const revokeDraftAccess = vi.fn(async () => undefined);
 	const send = vi.fn(async () => false);
+	const setVideoUrl = vi.fn();
 	const assistant: Partial<AssistantState> = {
 		messages,
 		quota: undefined,
@@ -21,17 +31,11 @@ function panelAssistant(
 		busy: false,
 		contextDividerIndex: undefined,
 		toolSession,
-		chats: [
-			{
-				id: 'chat-1',
-				title: 'Chorus question',
-				createdAt: '2026-08-02T10:00:00.000Z',
-				updatedAt: '2026-08-02T10:00:00.000Z',
-				ruleSetVersion: 'test'
-			}
-		],
+		chats,
 		draftToolsAvailable: true,
 		draftAccessState: decision,
+		videoUrl: undefined,
+		setVideoUrl,
 		send,
 		newChat: vi.fn(async () => undefined),
 		selectChat: vi.fn(async () => undefined),
@@ -40,7 +44,7 @@ function panelAssistant(
 		ensureLoaded: vi.fn(async () => undefined),
 		revokeDraftAccess
 	};
-	return { assistant: assistant as AssistantState, revokeDraftAccess, send };
+	return { assistant: assistant as AssistantState, revokeDraftAccess, send, setVideoUrl };
 }
 
 /** A transcript long enough to overflow the pane it is rendered into. */
@@ -108,6 +112,40 @@ describe('the assistant panel', () => {
 		expect(container.querySelector('.assistant-empty .assistant-disclosure')).not.toBeNull();
 		expect(screen.getByRole('button', { name: 'New chat' })).not.toBeNull();
 		expect(screen.getByRole('button', { name: 'Conversations' })).not.toBeNull();
+		expect(screen.getByRole('button', { name: 'Video Mode' })).not.toBeNull();
+	});
+
+	test('shows conversations trigger and empty notice when no chats exist', async () => {
+		const { assistant } = panelAssistant(undefined, [], undefined, []);
+		const { container } = render(AssistantPanel, { assistant });
+
+		const trigger = screen.getByRole('button', { name: 'Conversations' });
+		expect(trigger).not.toBeNull();
+
+		await fireEvent.click(trigger);
+		expect(container.querySelector('.assistant-chats__empty')?.textContent).toBe(
+			'No saved conversations yet.'
+		);
+	});
+
+	test('opens video support mode popover and sets video URL', async () => {
+		const { assistant, setVideoUrl } = panelAssistant();
+		const { container } = render(AssistantPanel, { assistant });
+
+		const videoBtn = screen.getByRole('button', { name: 'Video Mode' });
+		expect(videoBtn).not.toBeNull();
+
+		await fireEvent.click(videoBtn);
+		const popover = container.querySelector<HTMLElement>('.assistant-video-mode__popover')!;
+		expect(popover).not.toBeNull();
+
+		const input = popover.querySelector<HTMLInputElement>('.assistant-video-mode__input')!;
+		await fireEvent.input(input, { target: { value: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ' } });
+
+		const saveBtn = within(popover).getByRole('button', { name: 'Save URL' });
+		await fireEvent.click(saveBtn);
+
+		expect(setVideoUrl).toHaveBeenCalledWith('https://www.youtube.com/watch?v=dQw4w9WgXcQ');
 	});
 
 	test('keeps the conversations popover inside the narrow panel', async () => {
