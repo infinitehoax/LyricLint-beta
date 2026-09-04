@@ -392,7 +392,7 @@ describe('the assistant dialog', () => {
 		// it the moment it is armed, and a bare "Delete" would point at nothing.
 		await fireEvent.click(screen.getByRole('button', { name: 'Delete First question?' }));
 		await waitFor(() => expect(assistant.chats).toHaveLength(0));
-		expect(container.querySelector('.assistant-chats')).toBeNull();
+		expect(container.querySelector('.assistant-chats__empty')).not.toBeNull();
 		expect(container.textContent).toContain('What would you like to check?');
 	});
 
