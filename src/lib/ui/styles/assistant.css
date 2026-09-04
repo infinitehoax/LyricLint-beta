@@ -120,20 +120,17 @@
 	padding: var(--space-1) var(--space-3) 0;
 }
 
-/* The conversations popover and video mode popover: quiet disclosures, one
- * line per item, floating as overlay popovers over the panel/dialog. */
-.assistant-chats,
-.assistant-video-mode {
+/* The conversations popover: the drafts menu's shape — a quiet disclosure, one
+ * line per chat, commands as glyphs on the name's own line. */
+.assistant-chats {
 	position: relative;
 }
 
-.assistant-chats > summary,
-.assistant-video-mode > summary {
+.assistant-chats > summary {
 	list-style: none;
 }
 
-.assistant-chats > summary::-webkit-details-marker,
-.assistant-video-mode > summary::-webkit-details-marker {
+.assistant-chats > summary::-webkit-details-marker {
 	display: none;
 }
 
@@ -143,8 +140,7 @@
 	justify-content: center;
 }
 
-.assistant-chats__popover,
-.assistant-video-mode__popover {
+.assistant-chats__popover {
 	position: absolute;
 	z-index: var(--layer-menu);
 	top: calc(100% + var(--space-2));
@@ -165,8 +161,7 @@
  * editor and the start of every row disappears. The menu is anchored to the
  * history control, so its available width also reserves the panel's two
  * insets, the New chat control to its right, and the gap between them. */
-.assistant-panel .assistant-chats__popover,
-.assistant-panel .assistant-video-mode__popover {
+.assistant-panel .assistant-chats__popover {
 	width: min(24rem, calc(100cqi - 2 * var(--space-3) - 2rem - var(--space-1)));
 }
 
@@ -187,36 +182,6 @@
 
 .assistant-chats__list > li.current .list-row__name {
 	font-weight: var(--font-weight-bold);
-}
-
-.assistant-chats__empty {
-	padding: var(--space-2) var(--space-2);
-	margin: 0;
-	color: var(--color-text-muted);
-	font-size: var(--font-size-xs);
-}
-
-.assistant-video-mode__description {
-	margin: 0 0 var(--space-2);
-	color: var(--color-text-muted);
-	font-size: var(--font-size-xs);
-}
-
-.assistant-video-mode__input {
-	width: 100%;
-	padding: var(--space-1) var(--space-2);
-	margin-bottom: var(--space-2);
-	border: var(--border-width) solid var(--color-border);
-	border-radius: var(--radius-control);
-	background: var(--color-surface);
-	color: var(--color-text);
-	font-size: var(--font-size-xs);
-}
-
-.assistant-video-mode__actions {
-	display: flex;
-	gap: var(--space-1-5);
-	justify-content: flex-end;
 }
 
 /* The transcript is one centered reading column; spacing separates the turns,
