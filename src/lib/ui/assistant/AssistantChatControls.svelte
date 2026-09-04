@@ -85,9 +85,11 @@
 				<VideoOff aria-hidden="true" size={15} strokeWidth={2.25} />
 			{/if}
 		</summary>
-		<div class="assistant-video-mode__popover">
+		<div class="assistant-video-mode__popover" style="min-width: 260px;">
 			<h3 class="assistant-chats__heading">Video Support Mode</h3>
-			<p class="assistant-video-mode__description">
+			<p
+				style="font-size: var(--font-size-xs); color: var(--color-text-muted); margin-bottom: 8px;"
+			>
 				Pass YouTube video URL to Gemini Flash for video-assisted transcription checking.
 			</p>
 			<form
@@ -98,36 +100,41 @@
 			>
 				<input
 					type="url"
-					class="assistant-video-mode__input"
 					placeholder="https://www.youtube.com/watch?v=…"
 					bind:value={videoUrlInput}
+					style="width: 100%; padding: 4px 8px; font-size: 13px; margin-bottom: 8px; border: 1px solid var(--color-border); border-radius: 4px; background: var(--color-surface);"
 				/>
-				<div class="assistant-video-mode__actions">
+				<div style="display: flex; gap: 6px; justify-content: flex-end;">
 					{#if assistant.videoUrl}
-						<button type="button" class="button--quiet" onclick={clearVideoMode}> Clear </button>
+						<button
+							type="button"
+							class="button--quiet"
+							style="font-size: 12px;"
+							onclick={clearVideoMode}
+						>
+							Clear
+						</button>
 					{/if}
-					<button type="submit" class="button"> Save URL </button>
+					<button type="submit" class="button" style="font-size: 12px;"> Save URL </button>
 				</div>
 			</form>
 		</div>
 	</details>
-	<details class="assistant-chats" bind:open={chatsOpen} {@attach dismissOnOutside(dismissChats)}>
-		<!-- svelte-ignore a11y_no_redundant_roles -->
-		<summary
-			class="button--quiet icon-button assistant-chats__trigger"
-			role="button"
-			aria-label="Conversations"
-			title="Conversations"
-			aria-expanded={chatsOpen}
-			bind:this={chatsTrigger}
-		>
-			<Clock3 aria-hidden="true" size={15} strokeWidth={2.25} />
-		</summary>
-		<div class="assistant-chats__popover">
-			<h3 class="assistant-chats__heading">Conversations</h3>
-			{#if assistant.chats.length === 0}
-				<p class="assistant-chats__empty">No saved conversations</p>
-			{:else}
+	{#if assistant.chats.length > 0}
+		<details class="assistant-chats" bind:open={chatsOpen} {@attach dismissOnOutside(dismissChats)}>
+			<!-- svelte-ignore a11y_no_redundant_roles -->
+			<summary
+				class="button--quiet icon-button assistant-chats__trigger"
+				role="button"
+				aria-label="Conversations"
+				title="Conversations"
+				aria-expanded={chatsOpen}
+				bind:this={chatsTrigger}
+			>
+				<Clock3 aria-hidden="true" size={15} strokeWidth={2.25} />
+			</summary>
+			<div class="assistant-chats__popover">
+				<h3 class="assistant-chats__heading">Conversations</h3>
 				<ul class="assistant-chats__list">
 					{#each assistant.chats as chat (chat.id)}
 						<li class="list-row" class:current={chat.id === assistant.activeChatId}>
@@ -165,9 +172,9 @@
 						</li>
 					{/each}
 				</ul>
-			{/if}
-		</div>
-	</details>
+			</div>
+		</details>
+	{/if}
 	<button
 		type="button"
 		class="button--quiet icon-button"
